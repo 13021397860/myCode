@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1493109420 source:c:\users\administrator\desktop\mxdx\student\main.cpp
+	<string>
+	<cstdio>
+	<cctype>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	"Course.h"
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Interface.h"
+
+1495525444 source:c:\users\administrator\desktop\mxdx\student\student.cpp
+	<cstdio>
+	<cstring>
+	<fstream>
+	"Student.h"
+
+1493106777 c:\users\administrator\desktop\mxdx\student\student.h
+	"date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1496720650 c:\users\administrator\desktop\mxdx\student\date.h
+	<cstdio>
+	<iostream>
+	"MyException.h"
+
+1496721067 source:c:\users\administrator\desktop\mxdx\student\date.cpp
+	"date.h"
+	<windows.h>
+
+1492518805 c:\users\administrator\desktop\mxdx\student\course.h
+	<string>
+	<iostream>
+
+1493045975 source:c:\users\administrator\desktop\mxdx\student\course.cpp
+	"Course.h"
+
+1493041302 source:c:\users\administrator\desktop\mxdx\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493041327 c:\users\administrator\desktop\mxdx\student\electivecourse.h
+	"Course.h"
+
+1493041302 source:c:\users\administrator\desktop\mxdx\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493041302 c:\users\administrator\desktop\mxdx\student\obligatorycourse.h
+	"Course.h"
+
+1496735324 source:c:\users\administrator\desktop\mxdx\student\interface.cpp
+	"Interface.h"
+
+1496718957 c:\users\administrator\desktop\mxdx\student\interface.h
+	<cstdio>
+	<cctype>
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Student.h"
+	"InputException.h"
+
+1495508790 c:\users\administrator\desktop\mxdx\student\inputexception.h
+	<cstdio>
+
+1496673898 source:c:\users\administrator\desktop\mxdx\student\myexception.cpp
+	"MyException.h"
+
+1496674318 c:\users\administrator\desktop\mxdx\student\myexception.h
+	<cstdio>
+

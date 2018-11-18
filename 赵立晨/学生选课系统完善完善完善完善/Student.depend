@@ -1,0 +1,477 @@
+# depslib dependency file v1.0
+1490691916 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\student\main.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"Date.h"
+
+1490691866 c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\student\student.h
+	"Date.h"
+
+1490692291 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\student\student.cpp
+	"Student.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1490084294 c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\student\date.h
+
+1490683589 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\student\date.cpp
+	<cstdio>
+	"Date.h"
+
+1491916437 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\student.cpp
+	"Student.h"
+	"Course.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1491916126 c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1491915814 c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\date.h
+	<iostream>
+
+1491916484 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\main.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"Date.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1491915810 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\date.cpp
+	<cstdio>
+	"Date.h"
+
+1491911409 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\course.cpp
+	"Course.h"
+
+1491911039 c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\course.h
+	<string>
+
+1491912389 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1491912387 c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\obligatorycourse.h
+	"Course.h"
+
+1491912362 source:c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1491912352 c:\users\ÕÔÁ¢³¿\desktop\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\electivecourse.h
+	"Course.h"
+
+1492501068 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\date.cpp
+	<cstdio>
+	"Date.h"
+
+1492501069 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\date.h
+	<iostream>
+
+1492506128 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1492502048 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\electivecourse.h
+	"Course.h"
+
+1492508714 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\course.h
+	<string>
+	<iostream>
+
+1492506119 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1492505798 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\obligatorycourse.h
+	"Course.h"
+
+1492504543 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\student.cpp
+	"Student.h"
+	"Course.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1492311061 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1492502581 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\main.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1492507058 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³\course.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1493701464 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\date.cpp
+	<cstdio>
+	"Date.h"
+
+1493701464 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\date.h
+	<iostream>
+
+1492506128 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493113103 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\electivecourse.h
+	"Course.h"
+
+1493112310 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\course.h
+	<string>
+	<iostream>
+
+1492506119 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493113117 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\obligatorycourse.h
+	"Course.h"
+
+1493701115 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\student.cpp
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<windows.h>
+	<typeinfo>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1493701114 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1493711734 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\main.cpp
+	<iostream>
+	<cstdio>
+	"Console.h"
+
+1493105688 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\course.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1493102156 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\date.cpp
+	<cstdio>
+	"Date.h"
+
+1493102101 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\date.h
+	<iostream>
+
+1492506128 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1492502048 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\electivecourse.h
+	"Course.h"
+
+1493105696 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\course.h
+	<string>
+	<iostream>
+
+1492506119 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1492505798 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\obligatorycourse.h
+	"Course.h"
+
+1493105220 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\student.cpp
+	"Student.h"
+	"Course.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1493104670 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1493105881 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\main.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1493105688 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2)\course.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1493102156 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\date.cpp
+	<cstdio>
+	"Date.h"
+
+1493102101 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\date.h
+	<iostream>
+
+1492506128 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493113103 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\electivecourse.h
+	"Course.h"
+
+1493112310 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\course.h
+	<string>
+	<iostream>
+
+1492506119 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493113117 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\obligatorycourse.h
+	"Course.h"
+
+1493113071 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\main.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<windows.h>
+
+1493110695 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1493105688 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\course.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1493112949 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ - ¸±±¾ (2) - ¸±±¾\student.cpp
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<windows.h>
+	<typeinfo>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1493711935 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\console.cpp
+	"console.h"
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<windows.h>
+
+1493710949 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆ\console.h
+
+1494313349 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\course.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1494313353 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\course.h
+	<string>
+	<iostream>
+
+1494317850 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\electivecourse.h
+	"Course.h"
+
+1494317886 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\obligatorycourse.h
+	"Course.h"
+
+1493701464 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\date.cpp
+	<cstdio>
+	"Date.h"
+
+1493701464 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\date.h
+	<iostream>
+
+1494317877 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494312854 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494322396 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\student.cpp
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<windows.h>
+	<typeinfo>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1494318355 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1494319853 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\main.cpp
+	<iostream>
+	<cstdio>
+	"Console.h"
+
+1493710949 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\console.h
+
+1494319817 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆ\console.cpp
+	"console.h"
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<windows.h>
+
+1495436135 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\course.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1494313353 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\course.h
+	<string>
+	<iostream>
+
+1494317850 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\electivecourse.h
+	"Course.h"
+
+1494317886 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\obligatorycourse.h
+	"Course.h"
+
+1493701464 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\date.cpp
+	<cstdio>
+	"Date.h"
+
+1493701464 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\date.h
+	<iostream>
+
+1495525526 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1495525518 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495451466 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\student.cpp
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<windows.h>
+	<typeinfo>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1495447448 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1495437107 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\main.cpp
+	<iostream>
+	<cstdio>
+	"Console.h"
+
+1495452582 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\console.h
+	"Course.h"
+	"Student.h"
+
+1495532168 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆ\console.cpp
+	"console.h"
+	<iostream>
+	<fstream>
+	<cstdio>
+	<typeinfo>
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<windows.h>
+
+1495436135 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\course.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1494313353 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\course.h
+	<string>
+	<iostream>
+
+1496741285 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\electivecourse.h
+	"Course.h"
+	"MyException.h"
+
+1496740878 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\obligatorycourse.h
+	"Course.h"
+	"MyException.h"
+
+1496675738 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\date.cpp
+	<cstdio>
+	"Date.h"
+	"MyException.h"
+
+1493701464 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\date.h
+	<iostream>
+
+1496741301 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\electivecourse.cpp
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1496741323 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"MyException.h"
+
+1496741389 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\student.cpp
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<windows.h>
+	<typeinfo>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1496740773 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+	"MyException.h"
+
+1496677357 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\main.cpp
+	<iostream>
+	<cstdio>
+	"Console.h"
+
+1495452582 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\console.h
+	"Course.h"
+	"Student.h"
+
+1496729119 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\console.cpp
+	"console.h"
+	<iostream>
+	<fstream>
+	<cstdio>
+	<typeinfo>
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"MyException.h"
+	<windows.h>
+
+1496740712 source:c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\myexception.cpp
+	"MyException.h"
+
+1496740706 c:\users\ÕÔÁ¢³¿\desktop\´óÒ»ÏÂ\ÃæÏò¶ÔÏó£¬±¯ÉËµÄ¹ÊÊÂ\Ñ§ÉúÑ¡¿ÎÏµÍ³ÍêÉÆÍêÉÆÍêÉÆÍêÉÆ\myexception.h
+

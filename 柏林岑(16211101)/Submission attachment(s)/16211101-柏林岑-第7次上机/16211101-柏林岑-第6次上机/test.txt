@@ -1,0 +1,7 @@
+1 math 4
+1 physics 4
+1 chemistry 4
+2 easycourse-A 2
+2 easycourse-B 2
+2 easycourse-C 1
+2 easycourse-D 1

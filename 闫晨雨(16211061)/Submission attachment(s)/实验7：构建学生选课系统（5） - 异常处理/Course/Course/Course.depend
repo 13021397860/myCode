@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1495531889 source:c:\users\admin\desktop\course\course\main.cpp
+	<iostream>
+	"Console.h"
+
+1496740502 source:c:\users\admin\desktop\course\course\student.cpp
+	"Student.h"
+	"Time.h"
+	"cstring"
+	<iostream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+	<string>
+	<cstring>
+
+1495525024 c:\users\admin\desktop\course\course\student.h
+	"Time.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1496736394 c:\users\admin\desktop\course\course\time.h
+	<iostream>
+	"MyException.h"
+
+1496736735 source:c:\users\admin\desktop\course\course\time.cpp
+	<iostream>
+	"Time.h"
+
+1494317811 source:c:\users\admin\desktop\course\course\course.cpp
+	"Course.h"
+
+1496740320 c:\users\admin\desktop\course\course\course.h
+	<string>
+	<iostream>
+	"MyException.h"
+
+1496741357 source:c:\users\admin\desktop\course\course\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1496741407 c:\users\admin\desktop\course\course\electivecourse.h
+	"Course.h"
+
+1496740580 source:c:\users\admin\desktop\course\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494316921 c:\users\admin\desktop\course\course\obligatorycourse.h
+	"Course.h"
+
+1496739308 source:c:\users\admin\desktop\course\course\console.cpp
+	"Console.h"
+	<cstdio>
+	<fstream>
+	<cstring>
+	<iostream>
+
+1496738473 c:\users\admin\desktop\course\course\console.h
+	"Student.h"
+
+1496741042 c:\users\admin\desktop\course\course\myexception.h
+
+1496739358 source:c:\users\admin\desktop\course\course\myexception.cpp
+	"MyException.h"
+

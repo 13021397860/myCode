@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1490689809 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\上机\student\student\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+
+1490687687 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\上机\student\student\date.h
+
+1490687687 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\上机\student\student\date.cpp
+	<iostream>
+	"Date.h"
+
+1490689850 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\上机\student\student\student.h
+	"Date.h"
+
+1490690246 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\上机\student\student\student.cpp
+	<iostream>
+	<string.h>
+	"Student.h"
+	"Date.h"
+
+1491901422 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\course\course\course.cpp
+	"course.h"
+	<iostream>
+
+1491900511 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\course\course\course.h
+	<iostream>
+
+1493696173 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\date.cpp
+	<iostream>
+	"Date.h"
+
+1493696173 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\date.h
+	<iostream>
+
+1494317124 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\course.cpp
+	"course.h"
+	<iostream>
+
+1494316987 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\course.h
+	<iostream>
+
+1493707716 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\main.cpp
+	<iostream>
+	"Student.h"
+	"Console.h"
+	<cstring>
+
+1494319476 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\student.h
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+
+1495525686 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\student.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	"Student.h"
+	"Date.h"
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+
+1494316987 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+
+1494316987 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\electivecourse.h
+	"course.h"
+	<iostream>
+
+1494316987 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+
+1494316987 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\obligatorycourse.h
+	"course.h"
+	<iostream>
+
+1495525971 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\console.cpp
+	"Console.h"
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<fstream>
+
+1495454122 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student\student\console.h
+	"Student.h"
+
+1496738374 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\console.cpp
+	"Console.h"
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	"OtherOption.h"
+	"WrongOc.h"
+	"WrongEc.h"
+
+1496737003 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\console.h
+	"Student.h"
+
+1496736255 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\student.h
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+
+1494316987 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\course.h
+	<iostream>
+
+1494316987 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\obligatorycourse.h
+	"course.h"
+	<iostream>
+
+1494316987 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\electivecourse.h
+	"course.h"
+	<iostream>
+
+1493696173 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\date.h
+	<iostream>
+
+1496736256 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\otheroption.h
+	<stdexcept>
+
+1496721375 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\course.cpp
+	"course.h"
+	<iostream>
+
+1493696173 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\date.cpp
+	<iostream>
+	"Date.h"
+
+1496721027 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+
+1493707716 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\main.cpp
+	<iostream>
+	"Student.h"
+	"Console.h"
+	<cstring>
+
+1496721027 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+
+1496681725 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\otheroption.cpp
+	"OtherOption.h"
+
+1496738442 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\student.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	"Student.h"
+	"Date.h"
+	"course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+	"WrongGrade.h"
+
+1496683737 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\wrongoc.h
+	<stdexcept>
+
+1496683798 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\wrongec.h
+	<stdexcept>
+
+1496682871 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\wrongec.cpp
+	"WrongEc.h"
+
+1496682871 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\wrongoc.cpp
+	"WrongOc.h"
+
+1496720366 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\wronggrade.cpp
+	"WrongGrade.h"
+
+1496720179 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\ly's study大一下\面向对象\上机\student_constant\student\wronggrade.h
+	<stdexcept>
+

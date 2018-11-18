@@ -1,0 +1,9 @@
+CourseName: Math                 CreditHour: 4   IsObligatoryCourse: 1
+CourseName: Physics              CreditHour: 4   IsObligatoryCourse: 1
+CourseName: English              CreditHour: 2   IsObligatoryCourse: 1
+CourseName: OOP                  CreditHour: 3   IsObligatoryCourse: 1
+CourseName: DS                   CreditHour: 4   IsObligatoryCourse: 1
+CourseName: CPP                  CreditHour: 4   IsObligatoryCourse: 1
+CourseName: ElectiveCourse-A     CreditHour: 2   IsObligatoryCourse: 0
+CourseName: ElectiveCourse-B     CreditHour: 1   IsObligatoryCourse: 0
+CourseName: ElectiveCourse-C     CreditHour: 1   IsObligatoryCourse: 0

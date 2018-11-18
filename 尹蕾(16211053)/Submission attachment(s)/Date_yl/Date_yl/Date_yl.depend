@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1495459229 source:d:\date\date_yl\date.cpp
+	"Date.h"
+	<iostream>
+
+1495459661 d:\date\date_yl\date.h
+	<iostream>
+	"Exception.h"
+
+1493391720 source:d:\date\date_yl\main.cpp
+	"Console.h"
+
+1494318142 d:\date\date_yl\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1496459845 source:d:\date\date_yl\student.cpp
+	"Student.h"
+	<cstring>
+	<typeinfo>
+	<cstdlib>
+
+1494921640 source:d:\date\date_yl\course.cpp
+	"Course.h"
+	<iomanip>
+
+1495460249 d:\date\date_yl\course.h
+	<iostream>
+	<string>
+	"Exception.h"
+
+1495460220 source:d:\date\date_yl\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494316597 d:\date\date_yl\electivecourse.h
+	"Course.h"
+
+1496735013 source:d:\date\date_yl\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494918737 d:\date\date_yl\obligatorycourse.h
+	"Course.h"
+
+1496736997 source:d:\date\date_yl\console.cpp
+	"Console.h"
+	<fstream>
+	<typeinfo>
+	<iostream>
+	"Exception.h"
+
+1496736848 d:\date\date_yl\console.h
+	"Student.h"
+	<cstdlib>
+	<cstring>
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+	"Exception.h"
+
+1493392292 source:d:\program files\qq\qq文件\861026685\filerecv\date_yl\console.cpp
+	"Console.h"
+	<typeinfo>
+	<fstream>
+
+1493360762 d:\program files\qq\qq文件\861026685\filerecv\date_yl\console.h
+	"Student.h"
+	<cstdlib>
+	<cstring>
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493356546 d:\program files\qq\qq文件\861026685\filerecv\date_yl\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1493307190 d:\program files\qq\qq文件\861026685\filerecv\date_yl\date.h
+	<iostream>
+
+1493355793 d:\program files\qq\qq文件\861026685\filerecv\date_yl\course.h
+	<iostream>
+	<string>
+
+1493360957 d:\program files\qq\qq文件\861026685\filerecv\date_yl\obligatorycourse.h
+	"Course.h"
+
+1493360965 d:\program files\qq\qq文件\861026685\filerecv\date_yl\electivecourse.h
+	"Course.h"
+
+1493444696 source:d:\program files\qq\qq文件\861026685\filerecv\date_yl\course.cpp
+	"Course.h"
+
+1493306452 source:d:\program files\qq\qq文件\861026685\filerecv\date_yl\date.cpp
+	"Date.h"
+	<iostream>
+
+1493360957 source:d:\program files\qq\qq文件\861026685\filerecv\date_yl\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493391720 source:d:\program files\qq\qq文件\861026685\filerecv\date_yl\main.cpp
+	"Console.h"
+
+1493360957 source:d:\program files\qq\qq文件\861026685\filerecv\date_yl\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493357930 source:d:\program files\qq\qq文件\861026685\filerecv\date_yl\student.cpp
+	"Student.h"
+	<cstring>
+	<typeinfo>
+	<cstdlib>
+
+1493447105 source:c:\users\asus\desktop\date\console.cpp
+	"Console.h"
+	<fstream>
+
+1493446455 c:\users\asus\desktop\date\console.h
+	"Student.h"
+	<cstdlib>
+	<cstring>
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+
+1493447264 c:\users\asus\desktop\date\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1493307190 c:\users\asus\desktop\date\date.h
+	<iostream>
+
+1493355793 c:\users\asus\desktop\date\course.h
+	<iostream>
+	<string>
+
+1493360957 c:\users\asus\desktop\date\obligatorycourse.h
+	"Course.h"
+
+1493360965 c:\users\asus\desktop\date\electivecourse.h
+	"Course.h"
+
+1493444696 source:c:\users\asus\desktop\date\course.cpp
+	"Course.h"
+
+1493306452 source:c:\users\asus\desktop\date\date.cpp
+	"Date.h"
+	<iostream>
+
+1493360957 source:c:\users\asus\desktop\date\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493391720 source:c:\users\asus\desktop\date\main.cpp
+	"Console.h"
+
+1493360957 source:c:\users\asus\desktop\date\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493447256 source:c:\users\asus\desktop\date\student.cpp
+	"Student.h"
+	<cstring>
+	<typeinfo>
+	<cstdlib>
+
+1495458596 d:\date\date_yl\exception.h
+
+1495460502 source:d:\date\date_yl\exception.cpp
+	"Exception.h"
+

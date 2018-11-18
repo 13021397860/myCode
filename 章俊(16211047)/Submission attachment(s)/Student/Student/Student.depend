@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1495527332 source:f:\c++文件夹\student\main.cpp
+	"student.h"
+	"time.h"
+	<iostream>
+	<cstring>
+	"course.h"
+	<string>
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"console.h"
+	<fstream>
+
+1496739553 f:\c++文件夹\student\student.h
+	"time.h"
+	<cstring>
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<typeinfo>
+
+1496734693 f:\c++文件夹\student\time.h
+	<iostream>
+
+1496739738 source:f:\c++文件夹\student\student.cpp
+	"student.h"
+	"time.h"
+	<iostream>
+	<cstring>
+	<string>
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<typeinfo>
+	"myexception.h"
+
+1496737827 source:f:\c++文件夹\student\time.cpp
+	"time.h"
+	<iostream>
+	"myexception.h"
+
+1491898796 source:f:\c++文件夹\student\class.cpp
+	"class.h"
+	<iostream>
+	<string>
+
+1491898796 f:\c++文件夹\student\class.h
+	<iostream>
+	<string>
+
+1496736836 source:f:\c++文件夹\student\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+
+1494331813 f:\c++文件夹\student\course.h
+	<iostream>
+	<string>
+
+1494907015 f:\c++文件夹\student\obligatorycourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1494319940 source:f:\c++文件夹\student\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"course.h"
+	<iostream>
+	<string>
+	"student.h"
+	"time.h"
+
+1494331110 source:f:\c++文件夹\student\electivecourse.cpp
+	"electivecourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1494319882 f:\c++文件夹\student\electivecourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1496739506 source:f:\c++文件夹\student\console.cpp
+	"console.h"
+	"student.h"
+	"time.h"
+	<iostream>
+	<cstring>
+	"course.h"
+	<string>
+	<fstream>
+	"myexception.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+
+1495514020 f:\c++文件夹\student\console.h
+	"student.h"
+	"time.h"
+	<iostream>
+	<cstring>
+	"course.h"
+	"student.h"
+	<string>
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<fstream>
+
+1496735580 source:f:\c++文件夹\student\myexception.cpp
+	"myexception.h"
+	<iostream>
+
+1496735364 f:\c++文件夹\student\myexception.h
+

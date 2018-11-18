@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1492507337 source:d:\c++project\course\course\course\course.cpp
+	"Course.h"
+
+1492507285 d:\c++project\course\course\course\course.h
+	<string>
+	<iostream>
+
+1492507730 source:d:\c++project\course\course\course\main.cpp
+	<iostream>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1492507444 source:d:\c++project\course\course\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1492507456 d:\c++project\course\course\course\obligatorycourse.h
+	"Course.h"
+
+1492507444 source:d:\c++project\course\course\course\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1492507444 d:\c++project\course\course\course\electivecourse.h
+	"Course.h"
+
+1492488267 source:d:\c++project\course\course\student\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+
+1492489417 d:\c++project\course\course\student\student.h
+	"Date.h"
+	"../Course/Course.h"
+
+1491896976 d:\c++project\course\course\student\date.h
+
+1491896965 source:d:\c++project\course\course\student\date.cpp
+	"Date.h"
+	<iostream>
+
+1493119168 source:d:\c++project\course\course\course\date.cpp
+	"Date.h"
+	<iostream>
+
+1493119233 d:\c++project\course\course\course\date.h
+	<iostream>
+
+1493119275 source:d:\c++project\course\course\course\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+
+1493119612 d:\c++project\course\course\course\student.h
+	"Date.h"
+	"Course.h"
+
+1493120533 source:d:\c++project\course\course\course+\date.cpp
+	"Date.h"
+	<iostream>
+
+1493119233 d:\c++project\course\course\course+\date.h
+	<iostream>
+
+1493120533 source:d:\c++project\course\course\course+\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493716374 d:\c++project\course\course\course+\electivecourse.h
+	"Course.h"
+
+1493120533 d:\c++project\course\course\course+\course.h
+	<string>
+	<iostream>
+
+1493125570 source:d:\c++project\course\course\course+\course.cpp
+	"Course.h"
+	<iomanip>
+
+1493120533 source:d:\c++project\course\course\course+\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493716374 d:\c++project\course\course\course+\obligatorycourse.h
+	"Course.h"
+
+1493715483 source:d:\c++project\course\course\course+\main.cpp
+	<iostream>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1493715690 d:\c++project\course\course\course+\student.h
+	"Date.h"
+	"Course.h"
+
+1493713357 source:d:\c++project\course\course\course+\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+
+1493716224 source:d:\c++project\course\course\course+\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493714937 d:\c++project\course\course\course+\console.h
+	"Student.h"
+
+1494919942 source:d:\c++project\course\course\course++\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494319026 d:\c++project\course\course\course++\console.h
+	"Student.h"
+
+1494320922 d:\c++project\course\course\course++\student.h
+	"Date.h"
+	"Course.h"
+
+1493119233 d:\c++project\course\course\course++\date.h
+	<iostream>
+
+1494316976 d:\c++project\course\course\course++\course.h
+	<string>
+	<iostream>
+
+1494316537 d:\c++project\course\course\course++\obligatorycourse.h
+	"Course.h"
+
+1494316537 d:\c++project\course\course\course++\electivecourse.h
+	"Course.h"
+
+1493120533 source:d:\c++project\course\course\course++\date.cpp
+	"Date.h"
+	<iostream>
+
+1493715483 source:d:\c++project\course\course\course++\main.cpp
+	<iostream>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1494920766 source:d:\c++project\course\course\course++\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494316953 source:d:\c++project\course\course\course++\course.cpp
+	"Course.h"
+	<iomanip>
+
+1494320777 source:d:\c++project\course\course\course++\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494315628 source:d:\c++project\course\course\course++\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495511162 source:d:\c++project\course\course\course+++\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<fstream>
+	<cctype>
+	<sstream>
+
+1495510438 d:\c++project\course\course\course+++\console.h
+	"Student.h"
+
+1495510149 d:\c++project\course\course\course+++\student.h
+	"Date.h"
+	"Course.h"
+
+1493119233 d:\c++project\course\course\course+++\date.h
+	<iostream>
+
+1494316976 d:\c++project\course\course\course+++\course.h
+	<string>
+	<iostream>
+
+1494316537 d:\c++project\course\course\course+++\obligatorycourse.h
+	"Course.h"
+
+1494316537 d:\c++project\course\course\course+++\electivecourse.h
+	"Course.h"
+
+1494316953 source:d:\c++project\course\course\course+++\course.cpp
+	"Course.h"
+	<iomanip>
+
+1494921027 source:d:\c++project\course\course\course+++\date.cpp
+	"Date.h"
+	<iostream>
+
+1494320777 source:d:\c++project\course\course\course+++\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493715483 source:d:\c++project\course\course\course+++\main.cpp
+	<iostream>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1494315628 source:d:\c++project\course\course\course+++\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495511837 source:d:\c++project\course\course\course+++\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+	<typeinfo>
+	<fstream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1496669525 source:d:\c++project\course\course\course+++ +\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<fstream>
+	<cctype>
+	<sstream>
+
+1496664238 d:\c++project\course\course\course+++ +\console.h
+	"Student.h"
+	"MyException.h"
+
+1495510149 d:\c++project\course\course\course+++ +\student.h
+	"Date.h"
+	"Course.h"
+
+1496666173 d:\c++project\course\course\course+++ +\date.h
+	<iostream>
+	"MyException.h"
+
+1494316976 d:\c++project\course\course\course+++ +\course.h
+	<string>
+	<iostream>
+
+1494316537 d:\c++project\course\course\course+++ +\obligatorycourse.h
+	"Course.h"
+
+1494316537 d:\c++project\course\course\course+++ +\electivecourse.h
+	"Course.h"
+
+1494316953 source:d:\c++project\course\course\course+++ +\course.cpp
+	"Course.h"
+	<iomanip>
+
+1496669740 source:d:\c++project\course\course\course+++ +\date.cpp
+	"Date.h"
+	<iostream>
+
+1494320777 source:d:\c++project\course\course\course+++ +\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493715483 source:d:\c++project\course\course\course+++ +\main.cpp
+	<iostream>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1494315628 source:d:\c++project\course\course\course+++ +\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495529833 source:d:\c++project\course\course\course+++ +\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+	<typeinfo>
+	<fstream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1496667849 d:\c++project\course\course\course+++ +\myexception.h
+
+1496670191 source:d:\c++project\course\course\course+++ +\myexception.cpp
+	"MyException.h"
+

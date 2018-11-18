@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1494922461 source:c:\users\administrator\documents\mxdx\mxdx\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+
+1494922441 c:\users\administrator\documents\mxdx\mxdx\course.h
+	<string>
+
+1493710623 source:c:\users\administrator\documents\mxdx\mxdx\main.cpp
+	<iostream>
+	"Stu.h"
+	"Time.h"
+	"Course.h"
+	"Console.h"
+
+1494318518 c:\users\administrator\documents\mxdx\mxdx\stu.h
+	"Time.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<cstring>
+
+1496735638 c:\users\administrator\documents\mxdx\mxdx\time.h
+	<iostream>
+	<MyException.h>
+
+1496740719 source:c:\users\administrator\documents\mxdx\mxdx\stu.cpp
+	"Stu.h"
+	"Time.h"
+	"Course.h"
+	<cstring>
+	<iostream>
+	<typeinfo>
+
+1496738276 source:c:\users\administrator\documents\mxdx\mxdx\time.cpp
+	<iostream>
+	"Time.h"
+	"MyException.h"
+
+1495525781 c:\users\administrator\documents\mxdx\mxdx\include\console.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<string>
+	<fstream>
+	"../Course.h"
+	"../Stu.h"
+	"../Time.h"
+	"../ElectiveCourse.h"
+	"../ObligatoryCourse.h"
+
+1496740916 source:c:\users\administrator\documents\mxdx\mxdx\src\console.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cmath>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	"../Course.h"
+	"../Stu.h"
+	"../Time.h"
+	"Console.h"
+	"MyException.h"
+
+1494917115 c:\users\administrator\documents\mxdx\mxdx\electivecourse.h
+	<string>
+	"Course.h"
+
+1494319488 c:\users\administrator\documents\mxdx\mxdx\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1494917115 source:c:\users\administrator\documents\mxdx\mxdx\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494317688 source:c:\users\administrator\documents\mxdx\mxdx\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496739283 c:\users\administrator\documents\mxdx\mxdx\include\myexception.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<string>
+
+1496739497 source:c:\users\administrator\documents\mxdx\mxdx\src\myexception.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cmath>
+	"MyException.h"
+

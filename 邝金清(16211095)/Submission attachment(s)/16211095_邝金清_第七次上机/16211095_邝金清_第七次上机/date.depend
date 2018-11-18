@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1488878200 source:c:\users\邝金清\desktop\date\date.cpp
+	<stdio.h>
+	"date.h"
+
+1488878560 c:\users\邝金清\desktop\date\date.h
+
+1488878423 source:c:\users\邝金清\desktop\date\dates.cpp
+	<stdio.h>
+	"date.h"
+
+1489479420 source:c:\users\邝金清\documents\my_project\date\dates.cpp
+	<stdio.h>
+	"date.h"
+
+1489478644 c:\users\邝金清\documents\my_project\date\date.h
+
+1489478409 source:c:\users\邝金清\documents\my_project\date\date.cpp
+	<stdio.h>
+	"date.h"
+

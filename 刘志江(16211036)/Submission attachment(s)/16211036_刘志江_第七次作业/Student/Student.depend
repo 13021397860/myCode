@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1492442638 source:f:\面向对象\上机\student\date.cpp
+	<iostream>
+	"Date.h"
+
+1492505914 f:\面向对象\上机\student\date.h
+
+1492505769 source:f:\面向对象\上机\student\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+	"course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1492505719 f:\面向对象\上机\student\student.h
+	"Date.h"
+	"Course.h"
+
+1492504488 source:f:\面向对象\上机\student\student.cpp
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Date.h"
+
+1492505373 f:\面向对象\上机\student\course.h
+	<iostream>
+
+1492503316 source:f:\面向对象\上机\student\course.cpp
+	"Course.h"
+
+1492444929 source:f:\面向对象\上机\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1492445102 f:\面向对象\上机\student\electivecourse.h
+	"Course.h"
+
+1492445128 f:\面向对象\上机\student\obligatorycourse.h
+	"Course.h"
+
+1492445158 source:f:\面向对象\上机\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494331114 source:d:\面向对象\上机\student\course.cpp
+	"Course.h"
+
+1495521588 d:\面向对象\上机\student\course.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1496736344 source:d:\面向对象\上机\student\date.cpp
+	<iostream>
+	"Date.h"
+
+1496670930 d:\面向对象\上机\student\date.h
+	"MyException.h"
+
+1494319284 source:d:\面向对象\上机\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494317320 d:\面向对象\上机\student\electivecourse.h
+	"Course.h"
+
+1493711883 source:d:\面向对象\上机\student\main.cpp
+	"Console.h"
+
+1496670535 d:\面向对象\上机\student\student.h
+	"Course.h"
+	<iostream>
+	<cstring>
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<typeinfo>
+
+1494317320 d:\面向对象\上机\student\obligatorycourse.h
+	"Course.h"
+
+1494319284 source:d:\面向对象\上机\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496736344 source:d:\面向对象\上机\student\student.cpp
+	"Student.h"
+	<iomanip>
+
+1496736515 source:d:\面向对象\上机\student\console.cpp
+	"Console.h"
+
+1496670385 d:\面向对象\上机\student\console.h
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"Student.h"
+	"MyException.h"
+	<conio.h>
+
+1496670385 d:\面向对象\上机\student\myexception.h
+
+1496669178 source:d:\面向对象\上机\student\myexception.cpp
+	"MyException.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1490063172 source:c:\users\apple\desktop\新建文件夹\date\main.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+	"Student.h"
+
+1490083433 c:\users\apple\desktop\新建文件夹\date\date.h
+
+1490083433 source:c:\users\apple\desktop\新建文件夹\date\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1490085217 source:c:\users\apple\desktop\新建文件夹\date\student.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Student.h"
+	"Date.h"
+
+1490617888 c:\users\apple\desktop\新建文件夹\date\student.h
+	"Date.h"
+

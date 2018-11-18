@@ -1,0 +1,3 @@
+name£ºrenwei	birthday£º1998-1-1	score£º92£¬ courses information £º
+ourse name£ºmath	score£º3	grade£º90
+ourse name£ºgym	score£º2	grade£º95

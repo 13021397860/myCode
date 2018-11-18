@@ -1,0 +1,6 @@
+1 Chinese 3
+1 Math 3
+1 English 2
+2 PE 1
+2 Music 1
+2 Art 1

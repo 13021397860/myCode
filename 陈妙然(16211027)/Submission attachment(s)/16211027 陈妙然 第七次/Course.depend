@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1494920887 source:c:\users\administrator\desktop\choose\course\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1495458686 c:\users\administrator\desktop\choose\course\course.h
+	<string>
+
+1493109754 source:c:\users\administrator\desktop\choose\course\date.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+
+1493109754 c:\users\administrator\desktop\choose\course\date.h
+	<iomanip>
+
+1494317669 source:c:\users\administrator\desktop\choose\course\electivecourse.cpp
+	"ElectiveCourse.h"
+	"Course.h"
+
+1494317669 c:\users\administrator\desktop\choose\course\electivecourse.h
+	"Course.h"
+	<string>
+	<iostream>
+
+1493702115 source:c:\users\administrator\desktop\choose\course\main.cpp
+	"Console.h"
+
+1494918357 c:\users\administrator\desktop\choose\course\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+	<iomanip>
+
+1494317646 c:\users\administrator\desktop\choose\course\obligatorycourse.h
+	"Course.h"
+	<string>
+
+1494317646 source:c:\users\administrator\desktop\choose\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+
+1495524969 source:c:\users\administrator\desktop\choose\course\student.cpp
+	"Student.h"
+	"Course.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1495459691 source:c:\users\administrator\desktop\choose\course\console.cpp
+	"Console.h"
+	<iostream>
+	"Course.h"
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<cstdlib>
+
+1493711872 c:\users\administrator\desktop\choose\course\console.h
+	"Student.h"
+

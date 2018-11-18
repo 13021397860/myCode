@@ -1,0 +1,5 @@
+Name:Andy           BirthDate:1998-4-4
+You have chosen 3 courses.
+(1)CourseName:Math      Credit:4  Score:100
+(2)CourseName:C++       Credit:5  Score:60 
+(3)CourseName:History   Credit:1  Score:55 

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1489415450 source:d:\codeblocks exercises\student\date.cpp
+	"Date.h"
+	<bits/stdc++.h>
+
+1489403541 d:\codeblocks exercises\student\date.h
+
+1490691007 source:d:\codeblocks exercises\student\main.cpp
+	"Student.h"
+	"Date.h"
+	<bits/stdc++.h>
+
+1490690717 d:\codeblocks exercises\student\student.h
+	"Date.h"
+
+1490691210 source:d:\codeblocks exercises\student\student.cpp
+	"Student.h"
+	"Date.h"
+	<bits/stdc++.h>
+

@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1493715250 source:d:\mine\code and common software\codeblocks store\test2\main.cpp
+	"Console.h"
+	<typeinfo>
+
+1496735315 d:\mine\code and common software\codeblocks store\test2\time.h
+	<iostream>
+	"MyException.h"
+
+1496736169 d:\mine\code and common software\codeblocks store\test2\student.h
+	"time.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+	<typeinfo>
+
+1496735316 source:d:\mine\code and common software\codeblocks store\test2\time.cpp
+	"time.h"
+	<iostream>
+
+1496738339 source:d:\mine\code and common software\codeblocks store\test2\student.cpp
+	"Student.h"
+
+1496731975 source:d:\mine\code and common software\codeblocks store\test2\course.cpp
+	"Course.h"
+
+1496731964 d:\mine\code and common software\codeblocks store\test2\course.h
+	<iostream>
+	<cstring>
+	<iomanip>
+
+1494316341 source:d:\mine\code and common software\codeblocks store\test2\electivecourse.cpp
+	"ElectiveCourse.h"
+	<cstdio>
+
+1494316322 d:\mine\code and common software\codeblocks store\test2\electivecourse.h
+	"Course.h"
+
+1494316408 d:\mine\code and common software\codeblocks store\test2\obligatorycourse.h
+	"Course.h"
+
+1494316504 source:d:\mine\code and common software\codeblocks store\test2\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496738289 source:d:\mine\code and common software\codeblocks store\test2\console.cpp
+	"Console.h"
+	<typeinfo>
+
+1496733529 d:\mine\code and common software\codeblocks store\test2\console.h
+	"Student.h"
+	"MyException.h"
+	<fstream>
+
+1496735905 d:\mine\code and common software\codeblocks store\test2\myexception.h
+	<iostream>
+	<cstring>
+
+1496735253 source:d:\mine\code and common software\codeblocks store\test2\myexception.cpp
+	"MyException.h"
+

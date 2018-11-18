@@ -1,0 +1,6 @@
+Chinese	             5
+Math                 5
+English              5
+Object_Oriented      3
+Physical_Education   3
+        

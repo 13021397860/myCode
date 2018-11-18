@@ -1,0 +1,12 @@
+8 3
+4 mathematices
+4 algebra
+4 English
+3 data_structure
+2 physical_education
+5 physics
+5 test1
+4 test2
+2 aerospace_introduction
+1 ethics
+2 test3

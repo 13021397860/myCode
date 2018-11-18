@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1493650177 source:c:\users\qwaae\desktop\objective homework2\objective homework2\console.cpp
+	"Console.h"
+
+1493111518 c:\users\qwaae\desktop\objective homework2\objective homework2\console.h
+	"Student.h"
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligataryCourse.h"
+	<cstdio>
+	<iostream>
+
+1493649593 c:\users\qwaae\desktop\objective homework2\objective homework2\student.h
+	<iostream>
+	"Date.h"
+	"Course.h"
+	"ObligataryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+
+1493650526 c:\users\qwaae\desktop\objective homework2\objective homework2\date.h
+	<iostream>
+
+1493110983 c:\users\qwaae\desktop\objective homework2\objective homework2\course.h
+	<string>
+
+1493109808 c:\users\qwaae\desktop\objective homework2\objective homework2\obligatarycourse.h
+	"Course.h"
+
+1493109808 c:\users\qwaae\desktop\objective homework2\objective homework2\electivecourse.h
+	"Course.h"
+
+1493650360 source:c:\users\qwaae\desktop\objective homework2\objective homework2\course.cpp
+	<iostream>
+	"Course.h"
+
+1493650177 source:c:\users\qwaae\desktop\objective homework2\objective homework2\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+
+1493650177 source:c:\users\qwaae\desktop\objective homework2\objective homework2\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493650388 source:c:\users\qwaae\desktop\objective homework2\objective homework2\objective homework2.cpp
+	"Student.h"
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligataryCourse.h"
+	<cstdio>
+	<iostream>
+
+1493650177 source:c:\users\qwaae\desktop\objective homework2\objective homework2\obligatarycourse.cpp
+	"ObligataryCourse.h"
+
+1493650413 source:c:\users\qwaae\desktop\objective homework2\objective homework2\stdafx.cpp
+
+1493650423 source:c:\users\qwaae\desktop\objective homework2\objective homework2\student.cpp
+	"Student.h"
+	"Date.h"
+	<typeinfo>
+	<string>
+

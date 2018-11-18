@@ -1,0 +1,6 @@
+Name: liu Birthday: 1-1-1, the information about his/her course:
+  Course name: Data Structure Credit hour: 4 Score: 0
+  Course name: Calculus Credit hour: 4
+  Course name: Introduction to Aeronautics and Astronautics Credit hour: 2
+Credit: 0.0000
+

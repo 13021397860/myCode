@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1493716532 source:c:\users\administrator\desktop\course\course.cpp
+	"Course.h"
+	<bits/stdc++.h>
+
+1493716236 c:\users\administrator\desktop\course\course.h
+	<bits/stdc++.h>
+
+1493716170 source:c:\users\administrator\desktop\course\electivecourse.cpp
+	"ElectiveCourse.h"
+	<bits/stdc++.h>
+
+1493716170 c:\users\administrator\desktop\course\electivecourse.h
+	"Course.h"
+	<bits/stdc++.h>
+
+1493735751 source:c:\users\administrator\desktop\course\main.cpp
+	"Table.h"
+
+1493716170 source:c:\users\administrator\desktop\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<bits/stdc++.h>
+
+1493716170 c:\users\administrator\desktop\course\obligatorycourse.h
+	"Course.h"
+	<bits/stdc++.h>
+
+1493708232 source:c:\users\administrator\desktop\course\date.cpp
+	"Date.h"
+	<bits/stdc++.h>
+
+1493732938 c:\users\administrator\desktop\course\date.h
+	<bits/stdc++.h>
+
+1493732938 c:\users\administrator\desktop\course\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<bits/stdc++.h>
+
+1493736961 source:c:\users\administrator\desktop\course\student.cpp
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	<bits/stdc++.h>
+
+1493725527 c:\users\administrator\desktop\course\table.h
+	"Course.h"
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<bits/stdc++.h>
+
+1493736961 source:c:\users\administrator\desktop\course\table.cpp
+	"Table.h"
+	"Date.h"
+	"Course.h"
+	"Student.h"
+	<bits/stdc++.h>
+	<typeinfo>
+
+1494858316 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\course.cpp
+	"Course.h"
+	<bits/stdc++.h>
+
+1494858291 c:\users\administrator\desktop\course\16211064 李想 面向对象上机\course.h
+	<bits/stdc++.h>
+
+1496677156 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\date.cpp
+	"Date.h"
+	<bits/stdc++.h>
+	"MyException.h"
+
+1496676124 c:\users\administrator\desktop\course\16211064 李想 面向对象上机\date.h
+	<bits/stdc++.h>
+
+1496674874 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\electivecourse.cpp
+	"ElectiveCourse.h"
+	<bits/stdc++.h>
+	"MyException.h"
+
+1494860150 c:\users\administrator\desktop\course\16211064 李想 面向对象上机\electivecourse.h
+	"Course.h"
+	<bits/stdc++.h>
+
+1493735751 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\main.cpp
+	"Table.h"
+
+1493725527 c:\users\administrator\desktop\course\16211064 李想 面向对象上机\table.h
+	"Course.h"
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<bits/stdc++.h>
+
+1495458454 c:\users\administrator\desktop\course\16211064 李想 面向对象上机\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<bits/stdc++.h>
+
+1494860222 c:\users\administrator\desktop\course\16211064 李想 面向对象上机\obligatorycourse.h
+	"Course.h"
+	<bits/stdc++.h>
+
+1496674859 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<bits/stdc++.h>
+	"MyException.h"
+
+1496735547 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\table.cpp
+	"Table.h"
+	"Date.h"
+	"Course.h"
+	"Student.h"
+	<bits/stdc++.h>
+	<typeinfo>
+	"MyException.h"
+
+1495464372 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
+
+1496656979 c:\users\administrator\desktop\course\16211064 李想 面向对象上机\myexception.h
+
+1496672533 source:c:\users\administrator\desktop\course\16211064 李想 面向对象上机\myexception.cpp
+	"MyException.h"
+

@@ -1,0 +1,5 @@
+ObligatoryCourse 1	 a 3
+ObligatoryCourse 2	 b 5
+ObligatoryCourse 3	 c 4
+ElectiveCourse 4	 d 2
+ElectiveCourse 5	 e 2

@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1492503227 source:e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\course.cpp
+	"Course.h"
+
+1491898442 e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\course.h
+	<string>
+
+1490689227 source:e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\date.cpp
+	"Date.h"
+	<iostream>
+
+1490689684 e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\date.h
+	"Date.h"
+
+1492503181 source:e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1491898525 e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\electivecourse.h
+	"Course.h"
+
+1492505082 source:e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\main.cpp
+	<iostream>
+	<string>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1492503227 source:e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1491897844 e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\obligatorycourse.h
+	"Course.h"
+
+1492505043 source:e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\student.cpp
+	"Date.h"
+	"Student.h"
+	<cstring>
+	<iostream>
+
+1492503625 e:\file\important\study\1.2\oo\coding\exp-3\course_cbw\student.h
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493716934 source:e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\course.cpp
+	"Course.h"
+	<iostream>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493694767 e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\course.h
+	<iostream>
+	<string>
+
+1493107543 source:e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\date.cpp
+	"Date.h"
+	<iostream>
+
+1493107383 e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\date.h
+	<iostream>
+	"Date.h"
+
+1492503181 source:e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1491898525 e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\electivecourse.h
+	"Course.h"
+
+1492503227 source:e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1491897844 e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\obligatorycourse.h
+	"Course.h"
+
+1493726408 source:e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\student.cpp
+	"Date.h"
+	"Student.h"
+	<cstring>
+	<iostream>
+	<typeinfo>
+
+1493642648 e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\student.h
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493726575 source:e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\main.cpp
+	<iostream>
+	<string>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1493726718 source:e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\console.cpp
+	"Console.h"
+	<typeinfo>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493714082 e:\file\important\study\1.2\oo\coding\exp-4\course_cbw\console.h
+	"Student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1493107543 source:e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\date.cpp
+	"Date.h"
+	<iostream>
+
+1493107383 e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\date.h
+	<iostream>
+	"Date.h"
+
+1494318421 source:e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494318392 e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\electivecourse.h
+	"Course.h"
+
+1494318344 e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\course.h
+	<iostream>
+	<string>
+
+1494318432 source:e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494318393 e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\obligatorycourse.h
+	"Course.h"
+
+1494317942 source:e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\console.cpp
+	"Console.h"
+	<typeinfo>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493714082 e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\console.h
+	"Student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1494318393 e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\student.h
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494318277 source:e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\course.cpp
+	"Course.h"
+	<iostream>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493726575 source:e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\main.cpp
+	<iostream>
+	<string>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1494318596 source:e:\file\important\study\1.2\oo\coding\exp-5\16211071-程博文-第五次上机\course_cbw\student.cpp
+	"Date.h"
+	"Student.h"
+	<cstring>
+	<iostream>
+	<typeinfo>
+
+1495526495 source:e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\course.cpp
+	"Course.h"
+	<iostream>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iomanip>
+
+1494318344 e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\course.h
+	<iostream>
+	<string>
+
+1494318393 e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\obligatorycourse.h
+	"Course.h"
+
+1494318392 e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\electivecourse.h
+	"Course.h"
+
+1493107543 source:e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\date.cpp
+	"Date.h"
+	<iostream>
+
+1493107383 e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\date.h
+	<iostream>
+	"Date.h"
+
+1494318421 source:e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493726575 source:e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\main.cpp
+	<iostream>
+	<string>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1494318393 e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\student.h
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494923925 e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\console.h
+	"Student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1494318432 source:e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495526639 source:e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\student.cpp
+	"Date.h"
+	"Student.h"
+	<iomanip>
+	<cstring>
+	<iostream>
+	<typeinfo>
+
+1495526937 source:e:\file\important\study\1.2\oo\coding\exp-6\16211071-程博文-第六次上机\course_cbw\console.cpp
+	"Console.h"
+	<typeinfo>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<fstream>
+
+1496736721 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1496674079 e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\date.h
+	<iostream>
+	"Date.h"
+	"MyException.h"
+
+1493726575 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\main.cpp
+	<iostream>
+	<string>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1494318393 e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\student.h
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1496676749 e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\course.h
+	<iostream>
+	<string>
+	"MyException.h"
+
+1494318393 e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\obligatorycourse.h
+	"Course.h"
+
+1494318392 e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\electivecourse.h
+	"Course.h"
+
+1494923925 e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\console.h
+	"Student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1496736775 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\console.cpp
+	"Console.h"
+	<typeinfo>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<fstream>
+
+1496735691 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\course.cpp
+	"Course.h"
+	<iostream>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iomanip>
+
+1496736721 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494318432 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496731513 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\student.cpp
+	"Date.h"
+	"Student.h"
+	<iomanip>
+	<cstring>
+	<iostream>
+	<typeinfo>
+
+1496669931 source:e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\myexception.cpp
+	"MyException.h"
+
+1496736675 e:\file\important\study\1.2\oo\coding\exp-7\16211071-程博文-第七次上机\course_cbw\myexception.h
+

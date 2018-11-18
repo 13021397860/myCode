@@ -1,0 +1,7 @@
+1 CourseA 2
+1 CourseB 3
+1 CourseC 4
+1 CourseD 5
+2 CourseE 2
+2 CourseF 3
+2 CourseG 4

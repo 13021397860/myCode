@@ -1,0 +1,348 @@
+# depslib dependency file v1.0
+1493107885 source:c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\course.cpp
+	"Course.h"
+	<iostream>
+
+1493711053 c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\course.h
+	<string>
+
+1493111342 source:c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1493110119 c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\date.h
+	<iostream>
+
+1493109034 source:c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493111342 c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1493712318 source:c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\main.cpp
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1493109007 source:c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493111342 c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1493711850 source:c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+
+1493712318 c:\users\18334\desktop\oo\16211106_刘利娜_第三次作业\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493107885 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\course.cpp
+	"Course.h"
+	<iostream>
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\course.h
+	<string>
+
+1493111342 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1493110119 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\date.h
+	<iostream>
+
+1494318333 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1494320880 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\main.cpp
+	"console.h"
+
+1494316837 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1493109007 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494317774 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1494321259 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\console.cpp
+	"console.h"
+	"Student.h"
+
+1494321611 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1493714752 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\console.cpp
+	"console.h"
+	"Student.h"
+
+1493714605 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1493712318 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493110119 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\date.h
+	<iostream>
+
+1493711053 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\course.h
+	<string>
+
+1493111342 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1493111342 c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1493107885 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\course.cpp
+	"Course.h"
+	<iostream>
+
+1493111342 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\date.cpp
+	"Date.h"
+	<iostream>
+
+1493109034 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493715069 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\main.cpp
+	"console.h"
+
+1493109007 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493712584 source:c:\users\18334\desktop\oo\16211106_刘利娜_第四次作业1\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+
+1494913616 source:c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\console.cpp
+	"console.h"
+	"Student.h"
+
+1494912025 c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1494316837 c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493110119 c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\date.h
+	<iostream>
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\course.h
+	<string>
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1493107885 source:c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\course.cpp
+	"Course.h"
+	<iostream>
+
+1493111342 source:c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1494913351 source:c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494911492 source:c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\main.cpp
+	"console.h"
+
+1493109007 source:c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494317774 source:c:\users\18334\desktop\oo\16211106_刘利娜_第五次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1495524723 source:c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\course.cpp
+	"Course.h"
+	<iostream>
+
+1495522886 c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\course.h
+	<string>
+
+1493111342 source:c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1493110119 c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\date.h
+	<iostream>
+
+1494913351 source:c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1494911492 source:c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\main.cpp
+	"console.h"
+
+1494912025 c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1495526324 c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1494317801 c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1493109007 source:c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495526231 source:c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1495527163 source:c:\users\18334\desktop\oo\16211106_刘利娜_第六次作业\console.cpp
+	"console.h"
+	"Student.h"
+	<fstream>
+
+1495524723 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\course.cpp
+	"Course.h"
+	<iostream>
+
+1495522886 c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\course.h
+	<string>
+
+1494911492 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\main.cpp
+	"console.h"
+
+1496661919 c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iostream>
+	<typeinfo>
+
+1496661983 c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\student.h
+	"Date.h"
+	"Course.h"
+	"MyException.h"
+	<iostream>
+
+1496663072 c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\date.h
+	<iostream>
+	"MyException.h"
+
+1496661983 c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\obligatorycourse.h
+	"Course.h"
+	"MyException.h"
+	<iostream>
+
+1496661983 c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\electivecourse.h
+	"Course.h"
+	"MyException.h"
+	<iostream>
+
+1496735392 c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\myexception.h
+
+1496736295 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\console.cpp
+	"console.h"
+	"Student.h"
+	<fstream>
+
+1496663329 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1496663538 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1496734896 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\myexception.cpp
+	"MyException.h"
+
+1496663358 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496663329 source:c:\users\18334\desktop\oo\16211106_刘利娜_第七次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+

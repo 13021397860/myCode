@@ -1,0 +1,8 @@
+// This file supports to use "//" to comment
+// This file is courses of student:12
+// The format is [1,0]|[name]|[credithour]|[grade or mark][\n]
+// 1 means obligatory course and 0 means elective course.
+// Not supported for any Chinese.
+1|OOP|2|99
+0|CPP|3|N
+1|OS|4|-1

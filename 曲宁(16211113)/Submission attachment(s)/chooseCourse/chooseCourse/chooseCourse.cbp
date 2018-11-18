@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="chooseCourse" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/chooseCourse" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../chooseCourse" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/chooseCourse" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../chooseCourse" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Course.cpp" />
+		<Unit filename="Course.h" />
+		<Unit filename="Date.cpp" />
+		<Unit filename="Date.h" />
+		<Unit filename="ElectiveCourse.cpp" />
+		<Unit filename="ElectiveCourse.h" />
+		<Unit filename="ObligatoryCourse.cpp" />
+		<Unit filename="ObligatoryCourse.h" />
+		<Unit filename="Student.cpp" />
+		<Unit filename="Student.h" />
+		<Unit filename="console.cpp" />
+		<Unit filename="console.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="myexception.cpp" />
+		<Unit filename="myexception.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

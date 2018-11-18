@@ -1,0 +1,7 @@
+Name:YSH  BirthDate:1-1-1    Course:
+1.CourseName:Math        Credit:4     Grade:100
+2.CourseName:English     Credit:4     Grade:100
+3.CourseName:Software    Credit:4     Grade:100
+4.CourseName:Website     Credit:1     Grade:95
+5.CourseName:Searching   Credit:1     Grade:95
+6.CourseName:Linux       Credit:1     Grade:95

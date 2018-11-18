@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1495472359 source:e:\oop\new student\new student\course.cpp
+	"Course.h"
+	<iomanip>
+
+1494319092 e:\oop\new student\new student\course.h
+	<iostream>
+	<cstring>
+
+1493111146 source:e:\oop\new student\new student\date.cpp
+	"Date.h"
+	<iostream>
+	<cstdio>
+
+1493111127 e:\oop\new student\new student\date.h
+	<iostream>
+	<iomanip>
+
+1494319092 source:e:\oop\new student\new student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+	<cstring>
+
+1494319092 e:\oop\new student\new student\obligatorycourse.h
+	<iostream>
+	"Course.h"
+
+1495526740 source:e:\oop\new student\new student\student.cpp
+	"Student.h"
+	"Course.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1495526765 e:\oop\new student\new student\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<fstream>
+
+1496412335 source:e:\oop\new student\new student\main.cpp
+	<iostream>
+	<cstdio>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Student.h"
+	"Console.h"
+
+1494319092 source:e:\oop\new student\new student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494319092 e:\oop\new student\new student\electivecourse.h
+	<iostream>
+	"Course.h"
+
+1495467150 source:e:\oop\new student\new student\operation_interface.cpp
+	"operation_interface.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Student.h"
+
+1493452006 e:\oop\new student\new student\operation_interface.h
+	"Student.h"
+
+1496737261 source:e:\oop\new student\new student\console.cpp
+	"Console.h"
+	"Student.h"
+	"MyException.h"
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1495526740 e:\oop\new student\new student\console.h
+	"Student.h"
+
+1496737068 e:\oop\new student\new student\myexception.h
+	<iostream>
+
+1496737192 source:e:\oop\new student\new student\myexception.cpp
+	"MyException.h"
+	<iostream>
+

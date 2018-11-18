@@ -1,0 +1,3 @@
+姓名：1 出生日期：1-1-1 选课信息如下：
+Course name :easycourse-D creditHour: 1 Score: 65
+Course name :math creditHour: 4 Score: 1

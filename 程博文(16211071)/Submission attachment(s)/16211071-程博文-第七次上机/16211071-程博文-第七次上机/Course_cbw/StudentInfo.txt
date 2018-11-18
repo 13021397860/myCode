@@ -1,0 +1,8 @@
+Name:123   	BirthDate:2-2-2
+CourseName£ºChinese         CreditHour£º5   Grade£º99  
+CourseName£ºMath            CreditHour£º5   Grade£º100 
+CourseName£ºEnglish         CreditHour£º5   Grade£º100 
+CourseName£ºObject_Oriented CreditHour£º3   Grade£º100 
+CourseName£ºPhysical_EducationCreditHour£º3   Grade£º75  
+CourseName£ºArt             CreditHour£º1   Grade£º75  
+CourseName£ºHistory         CreditHour£º1   Grade£º95  

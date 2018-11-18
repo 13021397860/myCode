@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490692027 source:f:\2017project\date\date.cpp
+	"date.h"
+	<iostream>
+
+1490692027 f:\2017project\date\date.h
+
+1490691726 source:f:\2017project\date\main.cpp
+	<iostream>
+	"date.h"
+	"student.h"
+	<cstring>
+
+1490692027 f:\2017project\date\student.h
+	"date.h"
+
+1490692027 source:f:\2017project\date\student.cpp
+	"student.h"
+	"date.h"
+	<iostream>
+	<cstring>
+

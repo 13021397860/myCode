@@ -1,0 +1,3 @@
+name£ºda    birthdate£º2-2-2,class chosen£º
+course name:Math credithour:50 score:95
+GPA:57

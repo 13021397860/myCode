@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1490692056 source:c:\users\asus\desktop\面向对象上机文件\date\date.cpp
+	"Date.h"
+	<iostream>
+
+1490692054 c:\users\asus\desktop\面向对象上机文件\date\date.h
+
+1492446977 source:c:\users\asus\desktop\面向对象上机文件\date\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1492446271 c:\users\asus\desktop\面向对象上机文件\date\student.h
+	"Date.h"
+	"Course.h"
+
+1492447066 source:c:\users\asus\desktop\面向对象上机文件\date\student.cpp
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<iostream>
+
+1492444014 source:c:\users\asus\desktop\面向对象上机文件\date\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+
+1492446887 c:\users\asus\desktop\面向对象上机文件\date\course.h
+	<iostream>
+	<string>
+
+1491901269 source:c:\users\asus\desktop\面向对象上机文件\date\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"Course.h"
+
+1491900551 c:\users\asus\desktop\面向对象上机文件\date\obligatorycourse.h
+	"Course.h"
+
+1491901249 source:c:\users\asus\desktop\面向对象上机文件\date\electivecourse.cpp
+	"ElectiveCourse.h"
+	"Course.h"
+
+1491900614 c:\users\asus\desktop\面向对象上机文件\date\electivecourse.h
+	"Course.h"
+
+1494910364 source:c:\users\asus\desktop\面向对象上机文件\上机任务\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+
+1494862040 c:\users\asus\desktop\面向对象上机文件\上机任务\course.h
+	<iostream>
+	<string>
+
+1496724279 source:c:\users\asus\desktop\面向对象上机文件\上机任务\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1493107696 c:\users\asus\desktop\面向对象上机文件\上机任务\date.h
+	<iostream>
+
+1494862895 source:c:\users\asus\desktop\面向对象上机文件\上机任务\electivecourse.cpp
+	"ElectiveCourse.h"
+	"Course.h"
+
+1494866153 c:\users\asus\desktop\面向对象上机文件\上机任务\electivecourse.h
+	"Course.h"
+
+1493682908 source:c:\users\asus\desktop\面向对象上机文件\上机任务\main.cpp
+	"Console.h"
+
+1496736453 c:\users\asus\desktop\面向对象上机文件\上机任务\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1494862979 c:\users\asus\desktop\面向对象上机文件\上机任务\obligatorycourse.h
+	"Course.h"
+
+1494863538 source:c:\users\asus\desktop\面向对象上机文件\上机任务\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"Course.h"
+
+1496737799 source:c:\users\asus\desktop\面向对象上机文件\上机任务\student.cpp
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"Console.h"
+	"MyException.h"
+	<cstring>
+	<iostream>
+	<typeinfo>
+
+1495513159 c:\users\asus\desktop\面向对象上机文件\上机任务\console.h
+	<iostream>
+	<string>
+	<cstring>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1496739256 source:c:\users\asus\desktop\面向对象上机文件\上机任务\console.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	"Console.h"
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1496725673 source:c:\users\asus\desktop\面向对象上机文件\上机任务\myexception.cpp
+	"MyException.h"
+	<iostream>
+
+1496723593 c:\users\asus\desktop\面向对象上机文件\上机任务\myexception.h
+

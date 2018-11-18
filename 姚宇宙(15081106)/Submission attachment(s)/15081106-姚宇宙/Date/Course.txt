@@ -1,0 +1,10 @@
+C++ Programing
+5 1
+Computer Concepts
+2 1
+Discrete Maths
+3 1
+Walk into Software
+2 0
+Math Analysis
+5 1

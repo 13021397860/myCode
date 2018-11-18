@@ -1,0 +1,11 @@
+Data_Structure 3
+Object-Oriented_Programming 3
+Advanced_Mathematics 5
+College_Physics 4
+Understanding_and_Debating 2
+
+Physical_Education 2 
+Strengthening_of_Spoken_English 1
+Approaching_Software 2
+Military_Theory 1
+Ideological_and_Political_Education 1

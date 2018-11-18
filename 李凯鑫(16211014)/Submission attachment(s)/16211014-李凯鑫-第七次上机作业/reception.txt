@@ -1,0 +1,7 @@
+Name : asd    Birthday : 12-12-21    Course Information : 
+Course name: math    CreditHour: 4    Score: 87    CourseType: ObligatoryCourse
+Course name: asd    CreditHour: 2    Score: 95    CourseType: ElectiveCourse
+Course name: Chinese    CreditHour: 3    Score: 78    CourseType: ObligatoryCourse
+Course name: English    CreditHour: 3    Score: 80    CourseType: ObligatoryCourse
+Course name: asd    CreditHour: 12    Score: 0    CourseType: ObligatoryCourse
+Credit: 59

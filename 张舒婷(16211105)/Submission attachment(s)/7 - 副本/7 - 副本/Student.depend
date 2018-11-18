@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1495531890 source:d:\对象\6_流\console.cpp
+	"console.h"
+	"Student.h"
+	<fstream>
+
+1494912025 d:\对象\6_流\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1495526324 d:\对象\6_流\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493110119 d:\对象\6_流\date.h
+	<iostream>
+
+1495522886 d:\对象\6_流\course.h
+	<string>
+
+1494317801 d:\对象\6_流\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1494317801 d:\对象\6_流\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1495524723 source:d:\对象\6_流\course.cpp
+	"Course.h"
+	<iostream>
+
+1493111342 source:d:\对象\6_流\date.cpp
+	"Date.h"
+	<iostream>
+
+1494913351 source:d:\对象\6_流\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494911492 source:d:\对象\6_流\main.cpp
+	"console.h"
+
+1493109007 source:d:\对象\6_流\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495526231 source:d:\对象\6_流\student.cpp
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1496740179 source:d:\对象\7\console.cpp
+	"console.h"
+	"Student.h"
+	"MyException.h"
+	"Date.h"
+	<fstream>
+
+1494912025 d:\对象\7\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1495526324 d:\对象\7\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493110119 d:\对象\7\date.h
+	<iostream>
+
+1495522886 d:\对象\7\course.h
+	<string>
+
+1494317801 d:\对象\7\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1494317801 d:\对象\7\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1495524723 source:d:\对象\7\course.cpp
+	"Course.h"
+	<iostream>
+
+1496737933 source:d:\对象\7\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1496739552 source:d:\对象\7\electivecourse.cpp
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1494911492 source:d:\对象\7\main.cpp
+	"console.h"
+
+1496738554 source:d:\对象\7\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"MyException.h"
+
+1496739222 source:d:\对象\7\student.cpp
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1496739793 d:\对象\7\myexception.h
+
+1496739793 source:d:\对象\7\myexception.cpp
+	"MyException.h"
+
+1495524723 source:d:\对象\7 - 副本\course.cpp
+	"Course.h"
+	<iostream>
+
+1495522886 d:\对象\7 - 副本\course.h
+	<string>
+
+1496737933 source:d:\对象\7 - 副本\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1493110119 d:\对象\7 - 副本\date.h
+	<iostream>
+
+1496739793 d:\对象\7 - 副本\myexception.h
+
+1496739552 source:d:\对象\7 - 副本\electivecourse.cpp
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1494317801 d:\对象\7 - 副本\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1494911492 source:d:\对象\7 - 副本\main.cpp
+	"console.h"
+
+1494912025 d:\对象\7 - 副本\console.h
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<typeinfo>
+
+1495526324 d:\对象\7 - 副本\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1494317801 d:\对象\7 - 副本\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1496739793 source:d:\对象\7 - 副本\myexception.cpp
+	"MyException.h"
+
+1496738554 source:d:\对象\7 - 副本\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"MyException.h"
+
+1496739222 source:d:\对象\7 - 副本\student.cpp
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+

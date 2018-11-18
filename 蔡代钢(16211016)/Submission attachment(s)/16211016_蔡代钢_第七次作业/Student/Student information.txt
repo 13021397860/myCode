@@ -1,0 +1,5 @@
+Name: sdada   Birthday: 1995-08-02
+Course: ( Score = -1 means no score have been set£¡ )
+ Name: Math  Obligatory   CreditHour: 4.0  Score: -1.0
+ Name: Chinese  Elective   CreditHour: 2.0  Score: -1.0
+ Name: C++  Obligatory   CreditHour: 4.5  Score: -1.0

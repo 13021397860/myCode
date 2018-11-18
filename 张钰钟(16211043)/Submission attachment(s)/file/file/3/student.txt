@@ -1,0 +1,7 @@
+name: zffg 
+birthdate: 1345-8-7
+所选课程有：
+name :math
+creditHour :1
+name :abb
+creditHour :2

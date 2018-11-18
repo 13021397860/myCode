@@ -1,0 +1,6 @@
+姓名:Tom	出生日期:111-1-1
+选课信息如下：
+1  the name of course:网页分析工具 credit hour:1   无成绩
+2  the name of course:工科大学物理 credit hour:4   无成绩
+3  the name of course:英语口语强化 credit hour:2   无成绩
+4  the name of course:数据结构 credit hour:5   无成绩

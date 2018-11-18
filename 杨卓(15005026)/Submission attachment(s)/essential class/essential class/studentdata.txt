@@ -1,0 +1,4 @@
+姓名：ajsdfbnj    出生日期：1949/01/01
+选课信息如下：
+coursename:askdfj    credithour:2    score:0
+

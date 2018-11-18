@@ -1,0 +1,240 @@
+# depslib dependency file v1.0
+1493103195 source:e:\programming\object oriented\course\date.cpp
+	"Date.h"
+	<iostream>
+
+1493102627 e:\programming\object oriented\course\date.h
+	<iostream>
+
+1493302034 source:e:\programming\object oriented\course\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"Console.h"
+
+1493710513 source:e:\programming\object oriented\course\student.cpp
+	"Student.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1493301427 e:\programming\object oriented\course\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<iostream>
+
+1493102826 e:\programming\object oriented\course\course.h
+	<string>
+	<iostream>
+
+1493114824 source:e:\programming\object oriented\course\course.cpp
+	"Course.h"
+
+1492501063 source:e:\programming\object oriented\course\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1492501063 e:\programming\object oriented\course\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1492501063 source:e:\programming\object oriented\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1492501063 e:\programming\object oriented\course\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1493107994 source:e:\programming\object oriented\course\interacttable.cpp
+	"InteractTable.h"
+
+1493109097 e:\programming\object oriented\course\interacttable.h
+	"Student.h"
+	<iostream>
+
+1493710494 source:e:\programming\object oriented\course\console.cpp
+	"Console.h"
+
+1493300835 e:\programming\object oriented\course\console.h
+	"Student.h"
+	<bits/stdc++.h>
+	<typeinfo>
+
+1494321246 source:e:\programming\object oriented\polymorphism\console.cpp
+	"Console.h"
+
+1493300835 e:\programming\object oriented\polymorphism\console.h
+	"Student.h"
+	<bits/stdc++.h>
+	<typeinfo>
+
+1494319529 e:\programming\object oriented\polymorphism\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<bits/stdc++.h>
+	<typeinfo>
+
+1493102627 e:\programming\object oriented\polymorphism\date.h
+	<iostream>
+
+1494319529 e:\programming\object oriented\polymorphism\course.h
+	<string>
+	<bits/stdc++.h>
+
+1494318227 e:\programming\object oriented\polymorphism\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1494319047 e:\programming\object oriented\polymorphism\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1494319338 source:e:\programming\object oriented\polymorphism\course.cpp
+	"Course.h"
+
+1493103195 source:e:\programming\object oriented\polymorphism\date.cpp
+	"Date.h"
+	<iostream>
+
+1494319338 source:e:\programming\object oriented\polymorphism\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493302034 source:e:\programming\object oriented\polymorphism\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"Console.h"
+
+1494319338 source:e:\programming\object oriented\polymorphism\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494321315 source:e:\programming\object oriented\polymorphism\student.cpp
+	"Student.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1495525646 source:e:\programming\object oriented\filestream\console.cpp
+	"Console.h"
+
+1495330636 e:\programming\object oriented\filestream\console.h
+	"Student.h"
+	<bits/stdc++.h>
+	<typeinfo>
+	<fstream>
+
+1494319529 e:\programming\object oriented\filestream\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<bits/stdc++.h>
+	<typeinfo>
+
+1493102627 e:\programming\object oriented\filestream\date.h
+	<iostream>
+
+1494319529 e:\programming\object oriented\filestream\course.h
+	<string>
+	<bits/stdc++.h>
+
+1494318227 e:\programming\object oriented\filestream\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1494319047 e:\programming\object oriented\filestream\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1494319338 source:e:\programming\object oriented\filestream\course.cpp
+	"Course.h"
+
+1493103195 source:e:\programming\object oriented\filestream\date.cpp
+	"Date.h"
+	<iostream>
+
+1494319338 source:e:\programming\object oriented\filestream\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493302034 source:e:\programming\object oriented\filestream\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"Console.h"
+
+1494319338 source:e:\programming\object oriented\filestream\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495331299 source:e:\programming\object oriented\filestream\student.cpp
+	"Student.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1496735082 source:e:\programming\object oriented\exception\console.cpp
+	"Console.h"
+
+1496311955 e:\programming\object oriented\exception\console.h
+	"Student.h"
+	"MyException.h"
+	<bits/stdc++.h>
+	<typeinfo>
+	<fstream>
+
+1494319529 e:\programming\object oriented\exception\student.h
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<bits/stdc++.h>
+	<typeinfo>
+
+1496319190 e:\programming\object oriented\exception\date.h
+	<iostream>
+	"MyException.h"
+
+1496318417 e:\programming\object oriented\exception\myexception.h
+	<string>
+	<iostream>
+
+1494319529 e:\programming\object oriented\exception\course.h
+	<string>
+	<bits/stdc++.h>
+
+1496577082 e:\programming\object oriented\exception\electivecourse.h
+	"Course.h"
+	"MyException.h"
+	<iostream>
+
+1496312998 e:\programming\object oriented\exception\obligatorycourse.h
+	"Course.h"
+	"MyException.h"
+	<iostream>
+
+1494319338 source:e:\programming\object oriented\exception\course.cpp
+	"Course.h"
+
+1496577082 source:e:\programming\object oriented\exception\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493302034 source:e:\programming\object oriented\exception\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"Console.h"
+
+1496577161 source:e:\programming\object oriented\exception\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496320127 source:e:\programming\object oriented\exception\student.cpp
+	"Student.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1496319233 source:e:\programming\object oriented\exception\date.cpp
+	"Date.h"
+	<iostream>
+
+1496320665 source:e:\programming\object oriented\exception\myexception.cpp
+	"MyException.h"
+

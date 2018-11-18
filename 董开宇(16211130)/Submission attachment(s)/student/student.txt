@@ -1,0 +1,4 @@
+Name:dky    Birthday:1-1-3
+Course name: Math    Course credit: 4
+Course name: Music    Course credit: 1
+Course name: Art    Course credit: 2

@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1491901686 source:d:\my code\course.cpp
+	"Course.h"
+
+1491901646 d:\my code\course.h
+	<iostream>
+	<cstring>
+
+1490693694 source:d:\my code\student\student.cpp
+	"Student.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1492083207 d:\my code\student\student.h
+	"Date.h"
+	"Course.h"
+
+1491897627 d:\my code\student\date.h
+	<iostream>
+
+1494920316 source:d:\my code\choosecourse\main.cpp
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<string>
+	<iostream>
+	"console.h"
+
+1495464857 source:d:\my code\choosecourse\course.cpp
+	<iomanip>
+	"Course.h"
+
+1494317447 d:\my code\choosecourse\course.h
+	<iostream>
+	<string>
+
+1492332592 source:d:\my code\choosecourse\date.cpp
+	<iostream>
+	<string>
+	"Date.h"
+
+1492332588 d:\my code\choosecourse\date.h
+	<iostream>
+
+1494317548 source:d:\my code\choosecourse\electivecourse.cpp
+	"ElectiveCourse.h"
+	"Course.h"
+
+1494317447 d:\my code\choosecourse\electivecourse.h
+	"Course.h"
+
+1494730863 d:\my code\choosecourse\student.h
+	"Date.h"
+	"Course.h"
+
+1494317447 d:\my code\choosecourse\obligatorycourse.h
+	"Course.h"
+	<iostream>
+	<cstring>
+
+1494317553 source:d:\my code\choosecourse\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495465074 source:d:\my code\choosecourse\student.cpp
+	"Student.h"
+	<cstdio>
+	<cstring>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1495461563 d:\my code\choosecourse\console.h
+
+1496737695 source:d:\my code\choosecourse\console.cpp
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<string>
+	<iostream>
+	"console.h"
+	<typeinfo>
+	<fstream>
+	<cstdlib>
+	"myexception.h"
+
+1496737538 d:\my code\choosecourse\myexception.h
+	<iostream>
+	<string>
+
+1496737547 source:d:\my code\choosecourse\myexception.cpp
+	"myexception.h"
+

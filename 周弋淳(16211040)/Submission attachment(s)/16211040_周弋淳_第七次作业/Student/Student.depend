@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1490689340 source:f:\学习\大一下\面向对象\date\date.cpp
+	<iostream>
+	"Date.h"
+
+1490689286 f:\学习\大一下\面向对象\date\date.h
+
+1493717891 source:f:\学习\大一下\面向对象\student\main.cpp
+	"Console.h"
+
+1496735597 source:f:\学习\大一下\面向对象\student\student.cpp
+	"Student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1495524976 f:\学习\大一下\面向对象\student\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1491897523 source:f:\学习\大一下\面向对象\course\course.cpp
+	"Course.h"
+
+1491898752 f:\学习\大一下\面向对象\course\course.h
+	<string>
+
+1493107585 f:\学习\大一下\面向对象\student\date.h
+	<iostream>
+
+1494327310 f:\学习\大一下\面向对象\student\course.h
+	<string>
+
+1496659050 source:f:\学习\大一下\面向对象\student\course.cpp
+	<iostream>
+	"Course.h"
+	"Student.h"
+
+1496660582 source:f:\学习\大一下\面向对象\student\date.cpp
+	<iostream>
+	"Date.h"
+	"MyException.h"
+
+1493714469 source:f:\学习\大一下\面向对象\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493714523 f:\学习\大一下\面向对象\student\electivecourse.h
+	"Course.h"
+
+1493714476 source:f:\学习\大一下\面向对象\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493714552 f:\学习\大一下\面向对象\student\obligatorycourse.h
+	"Course.h"
+
+1496735394 source:f:\学习\大一下\面向对象\student\console.cpp
+	"Console.h"
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"MyException.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+
+1496661569 f:\学习\大一下\面向对象\student\console.h
+	"Student.h"
+	"Course.h"
+
+1496658003 source:f:\学习\大一下\面向对象\student\myexception.cpp
+	"MyException.h"
+
+1496659811 f:\学习\大一下\面向对象\student\myexception.h
+

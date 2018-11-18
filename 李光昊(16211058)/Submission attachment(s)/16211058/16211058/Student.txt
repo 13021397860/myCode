@@ -1,0 +1,8 @@
+tom
+1998-9-22
+4
+name: oc1   credithour: 1   grade: 100
+name: ec1   credithour: 1   grade: 95
+name: oc2   credithour: 2   grade: 100
+name: oc10  credithour: 10  grade: 100
+42.6154

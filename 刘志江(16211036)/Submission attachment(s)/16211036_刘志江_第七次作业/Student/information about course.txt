@@ -1,0 +1,12 @@
+ObligatoryCourse
+Data Structure
+4
+Calculus
+4
+Physics
+4
+ElectiveCourse
+Introduction to Aeronautics and Astronautics
+2
+English Speech
+2

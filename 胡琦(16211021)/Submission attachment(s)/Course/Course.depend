@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1492498742 source:e:\project\1 2\object-oriented\date\date.cpp
+	<iostream>
+	<cstdio>
+	"date.h"
+
+1492499014 e:\project\1 2\object-oriented\date\date.h
+	<iostream>
+
+1492505279 source:e:\project\1 2\object-oriented\student\student.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+	<string.h>
+	"Student.h"
+	"../date/date.h"
+
+1492504946 e:\project\1 2\object-oriented\student\student.h
+	"../date/date.h"
+	"../Course/Course.h"
+
+1494319116 source:e:\project\1 2\object-oriented\course\course.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+	<cstring>
+	"Course.h"
+
+1494319087 e:\project\1 2\object-oriented\course\course.h
+	<string>
+
+1496738119 source:e:\project\1 2\object-oriented\course\main.cpp
+	<iostream>
+	<cstdio>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Student.h"
+	"function.h"
+	"MyException.h"
+
+1496740653 source:e:\project\1 2\object-oriented\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"MyException.h"
+
+1494319020 e:\project\1 2\object-oriented\course\obligatorycourse.h
+	"Course.h"
+
+1496740664 source:e:\project\1 2\object-oriented\course\electivecourse.cpp
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1494318993 e:\project\1 2\object-oriented\course\electivecourse.h
+	"Course.h"
+
+1496737801 source:e:\project\1 2\object-oriented\course\date.cpp
+	<iostream>
+	<cstdio>
+	"date.h"
+
+1496735598 e:\project\1 2\object-oriented\course\date.h
+	<iostream>
+	"date.h"
+
+1496737403 e:\project\1 2\object-oriented\course\student.h
+	"date.h"
+	"Course.h"
+
+1496740684 source:e:\project\1 2\object-oriented\course\student.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+	<string.h>
+	"Student.h"
+	"date.h"
+	"MyException.h"
+
+1496740346 source:e:\project\1 2\object-oriented\course\function.cpp
+	"function.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstdio>
+	<fstream>
+	"MyException.h"
+
+1496737965 e:\project\1 2\object-oriented\course\function.h
+	"Student.h"
+	"Course.h"
+	<iostream>
+
+1496740684 e:\project\1 2\object-oriented\course\myexception.h
+	"date.h"
+
+1496740684 source:e:\project\1 2\object-oriented\course\myexception.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+	<cstring>
+	"MyException.h"
+

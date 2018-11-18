@@ -1,0 +1,10 @@
+课程名: math   学分: 4   成绩:00
+课程名: C++   学分: 4   成绩:00
+课程名: DataStruct   学分: 6   成绩:00
+课程名: English   学分: 3   成绩:00
+xx Obligatoryisover xx -1 xx
+课程名: Chinese   学分: 1   成绩:00
+课程名: WebsiteAnalyze   学分: 2   成绩:00
+课程名: Boya   学分: 1   成绩:00
+课程名: Python   学分: 3   成绩:00
+xx Electiveisover xx -1 xx

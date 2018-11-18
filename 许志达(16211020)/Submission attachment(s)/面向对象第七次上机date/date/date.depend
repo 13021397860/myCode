@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1493714833 source:d:\object oriented programming\date\main.cpp
+	"student.h"
+	"date.h"
+	"ElectiveCourse.h"
+	"Course.h"
+	"Console.h"
+	"ObligatoryCourse.h"
+	<string.h>
+	<iostream>
+
+1493449616 d:\object oriented programming\date\include\date.h
+	<iostream>
+
+1495450542 source:d:\object oriented programming\date\src\date.cpp
+	"date.h"
+	<iostream>
+
+1494766935 d:\object oriented programming\date\include\student.h
+	"date.h"
+	"Course.h"
+
+1494766950 source:d:\object oriented programming\date\src\student.cpp
+	"student.h"
+	"date.h"
+	"ElectiveCourse.h"
+	"Course.h"
+	"Console.h"
+	"ObligatoryCourse.h"
+	<string.h>
+	<iostream>
+
+1490694585 d:\object oriented programming\date\include\student1.h
+	"date.h"
+
+1490694632 source:d:\object oriented programming\date\src\student1.cpp
+	"student1.h"
+	"date.h"
+	<string.h>
+	<iostream>
+
+1494317371 source:d:\object oriented programming\date\src\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+
+1494317371 d:\object oriented programming\date\include\electivecourse.h
+	<string>
+	"Course.h"
+
+1494317103 source:d:\object oriented programming\date\src\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+
+1494318112 d:\object oriented programming\date\include\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1494318174 source:d:\object oriented programming\date\src\course.cpp
+	"Course.h"
+	<iostream>
+
+1494318152 d:\object oriented programming\date\include\course.h
+	<string>
+
+1495531794 source:d:\object oriented programming\date\src\console.cpp
+	"Console.h"
+	"student.h"
+	"date.h"
+	"ElectiveCourse.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	<string.h>
+	<iostream>
+	<fstream>
+
+1494766936 d:\object oriented programming\date\include\console.h
+	"Course.h"
+	"student.h"
+	"student.h"
+	"date.h"
+	"ElectiveCourse.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	<string.h>
+	<iostream>
+

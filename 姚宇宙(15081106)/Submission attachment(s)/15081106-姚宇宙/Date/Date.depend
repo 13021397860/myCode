@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1496729523 source:c:\users\54287\desktop\works\作业\date\date.cpp
+	<iostream>
+	"Date.h"
+	"MyException.h"
+
+1496728999 c:\users\54287\desktop\works\作业\date\date.h
+	<iostream>
+	"MyException.h"
+
+1496729388 source:c:\users\54287\desktop\works\作业\date\main.cpp
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+	"MyException.h"
+
+1496732709 source:c:\users\54287\desktop\works\作业\date\student.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1495525988 c:\users\54287\desktop\works\作业\date\student.h
+	"Date.h"
+	"Course.h"
+
+1494291572 source:c:\users\54287\desktop\works\作业\date\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1493110111 c:\users\54287\desktop\works\作业\date\course.h
+	<iostream>
+
+1492436710 source:c:\users\54287\desktop\works\作业\date\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+
+1492436713 c:\users\54287\desktop\works\作业\date\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1496732833 source:c:\users\54287\desktop\works\作业\date\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+	"MyException.h"
+
+1492504202 c:\users\54287\desktop\works\作业\date\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1494320451 source:c:\users\54287\desktop\works\作业\date\instance.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	"INSTANCE.h"
+	"Student.h"
+
+1494320292 c:\users\54287\desktop\works\作业\date\instance.h
+	"Student.h"
+
+1496732724 source:c:\users\54287\desktop\works\作业\date\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string>
+	<iomanip>
+	"Student.h"
+	"MyException.h"
+
+1496732640 c:\users\54287\desktop\works\作业\date\console.h
+	"Student.h"
+
+1496729483 c:\users\54287\desktop\works\作业\date\myexception.h
+	<iostream>
+
+1496729502 source:c:\users\54287\desktop\works\作业\date\myexception.cpp
+	"MyException.h"
+	<iostream>
+
+1496735248 source:c:\documents and settings\administrator\桌面\date\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string>
+	<iomanip>
+	"Student.h"
+	"MyException.h"
+
+1496732642 c:\documents and settings\administrator\桌面\date\console.h
+	"Student.h"
+
+1495525990 c:\documents and settings\administrator\桌面\date\student.h
+	"Date.h"
+	"Course.h"
+
+1496729000 c:\documents and settings\administrator\桌面\date\date.h
+	<iostream>
+	"MyException.h"
+
+1496729484 c:\documents and settings\administrator\桌面\date\myexception.h
+	<iostream>
+
+1493110112 c:\documents and settings\administrator\桌面\date\course.h
+	<iostream>
+
+1494291574 source:c:\documents and settings\administrator\桌面\date\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1496729524 source:c:\documents and settings\administrator\桌面\date\date.cpp
+	<iostream>
+	"Date.h"
+	"MyException.h"
+
+1496732834 source:c:\documents and settings\administrator\桌面\date\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+	"MyException.h"
+
+1492504204 c:\documents and settings\administrator\桌面\date\electivecourse.h
+	"Course.h"
+	<iostream>
+
+1496736446 source:c:\documents and settings\administrator\桌面\date\main.cpp
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Console.h"
+
+1492436714 c:\documents and settings\administrator\桌面\date\obligatorycourse.h
+	"Course.h"
+	<iostream>
+
+1496738086 source:c:\documents and settings\administrator\桌面\date\myexception.cpp
+	"MyException.h"
+	<iostream>
+
+1496732844 source:c:\documents and settings\administrator\桌面\date\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+	"MyException.h"
+
+1496732710 source:c:\documents and settings\administrator\桌面\date\student.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+

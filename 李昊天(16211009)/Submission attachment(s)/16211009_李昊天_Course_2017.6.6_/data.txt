@@ -1,0 +1,4 @@
+1 Chinese 5 90
+2 Math 6 A
+1 Science 5 80
+2 Biology 4 B

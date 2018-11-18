@@ -1,0 +1,8 @@
+StudentName:  ppp    Birthday: 1-1-1
+  
+Elective information:
+ 
+CourseName:Chinese	CreditHour:0	Grade:95
+
+CourseName:Math	CreditHour:4	Grade:100
+

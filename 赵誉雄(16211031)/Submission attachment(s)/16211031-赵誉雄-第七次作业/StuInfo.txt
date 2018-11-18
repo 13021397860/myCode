@@ -1,0 +1,6 @@
+Name: Bill	BirthDate: 1998-6-26
+Credit: 97.4
+Selected Courses: 
+course name:         多元微积分	credit: 4	score:    99
+course name:             OpenGl	credit: 1	score:    95
+

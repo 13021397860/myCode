@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1496726014 source:f:\2017project\student\date.cpp
+	"date.h"
+	"MyException.h"
+	<iostream>
+
+1496725944 f:\2017project\student\date.h
+	<iostream>
+
+1494911881 source:f:\2017project\student\course.cpp
+	"Course.h"
+	<cstring>
+	<iostream>
+
+1494907801 f:\2017project\student\course.h
+	<iostream>
+	<cstring>
+
+1494908120 source:f:\2017project\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	"Course.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1496725815 f:\2017project\student\electivecourse.h
+	<typeinfo>
+	"Course.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+
+1493717343 source:f:\2017project\student\main.cpp
+	"console.h"
+
+1494850375 f:\2017project\student\console.h
+	<cstdio>
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"date.h"
+	"student.h"
+
+1494907431 f:\2017project\student\obligatorycourse.h
+	<typeinfo>
+	"Course.h"
+	<iostream>
+	<cstring>
+
+1495509305 f:\2017project\student\student.h
+	"date.h"
+	"Course.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1494908120 source:f:\2017project\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"Course.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+
+1496738624 source:f:\2017project\student\student.cpp
+	"student.h"
+	"date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+	<fstream>
+
+1496738366 source:f:\2017project\student\console.cpp
+	"console.h"
+	<cstdio>
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"date.h"
+	"student.h"
+	<fstream>
+
+1496722325 source:f:\2017project\student\myexception.cpp
+	"MyException.h"
+
+1496735663 f:\2017project\student\myexception.h
+	<iostream>
+

@@ -1,0 +1,8 @@
+该日期下一天是出生日期：1999-9-10
+
+COURENAME:math  CREDITOUR:4  score:100
+
+COURENAME:oop  CREDITOUR:2  score:90
+
+COURENAME:3dprint  CREDITOUR:2  score:90
+

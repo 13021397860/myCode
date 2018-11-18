@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1494319226 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+
+1496742516 d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\course.h
+	<string>
+	<iostream>
+
+1496738827 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\date.cpp
+	"Date.h"
+	"Myexception.h"
+	<iostream>
+
+1493697197 d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\date.h
+	<iostream>
+
+1496742550 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\electivecourse.cpp
+	"electivecourse.h"
+	<string>
+	<iostream>
+	"Myexception.h"
+
+1494318992 d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\electivecourse.h
+	"course.h"
+	<iostream>
+
+1495532990 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\main.cpp
+	<iostream>
+	"Date.h"
+	"student.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"selesub.h"
+	<string>
+
+1496739146 d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\student.h
+	"Date.h"
+	"course.h"
+	<string>
+
+1496742566 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"Myexception.h"
+
+1494318992 d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\obligatorycourse.h
+	"course.h"
+
+1496742369 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\student.cpp
+	"student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"typeinfo"
+	"course.h"
+	<fstream>
+	<cstdlib>
+	"Myexception.h"
+
+1496742784 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\selesub.cpp
+	"selesub.h"
+	<typeinfo>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Myexception.h"
+
+1495531401 d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\selesub.h
+	<iostream>
+	"Date.h"
+	"student.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<string>
+
+1496742369 d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\myexception.h
+	"student.h"
+
+1496742620 source:d:\大一下\课件\面向对象的程序设计\上机\我的制作\学生选课系统\select subject\myexception.cpp
+	"Myexception.h"
+

@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1496717370 source:c:\users\apple\desktop\新建文件夹\project\date.cpp
+	"Date.h"
+	"myexception.h"
+	<iostream>
+	<iomanip>
+
+1496710867 c:\users\apple\desktop\新建文件夹\project\date.h
+	<iostream>
+
+1495362376 source:c:\users\apple\desktop\新建文件夹\project\main.cpp
+	"interface.h"
+
+1496715785 c:\users\apple\desktop\新建文件夹\project\student.h
+	"Date.h"
+	"course.h"
+	<iostream>
+
+1496736782 source:c:\users\apple\desktop\新建文件夹\project\student.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<typeinfo>
+	"Student.h"
+	"Date.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"myexception.h"
+
+1494316949 source:c:\users\apple\desktop\新建文件夹\project\course.cpp
+	"course.h"
+	<iostream>
+	<iomanip>
+
+1494313156 c:\users\apple\desktop\新建文件夹\project\course.h
+	<string>
+
+1491897034 source:c:\users\apple\desktop\新建文件夹\project\electiveecourse.cpp
+	"electiveecourse.h"
+	"course.h"
+
+1491897100 c:\users\apple\desktop\新建文件夹\project\electiveecourse.h
+	"course.h"
+
+1494313156 source:c:\users\apple\desktop\新建文件夹\project\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"course.h"
+
+1494313156 c:\users\apple\desktop\新建文件夹\project\obligatorycourse.h
+	"course.h"
+
+1494313156 source:c:\users\apple\desktop\新建文件夹\project\electivecourse.cpp
+	"electivecourse.h"
+	"course.h"
+
+1494315926 c:\users\apple\desktop\新建文件夹\project\electivecourse.h
+	"course.h"
+
+1496715881 source:c:\users\apple\desktop\新建文件夹\project\interface.cpp
+	"interface.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<cstdlib>
+	"Date.h"
+	"Student.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+
+1495361676 c:\users\apple\desktop\新建文件夹\project\interface.h
+	<iostream>
+	<iomanip>
+	"Date.h"
+	"Student.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+
+1496725052 source:c:\users\apple\desktop\新建文件夹\project\myexception.cpp
+	<exception>
+	<iostream>
+	"myexception.h"
+	"Date.h"
+
+1496725007 c:\users\apple\desktop\新建文件夹\project\myexception.h
+	<string>
+

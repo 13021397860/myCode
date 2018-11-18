@@ -1,0 +1,4 @@
+Maths 200
+Chinese 10
+C++ 240
+OO 180

@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1465698087 source:e:\temp\course\cb\testexception\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	"MyException.h"
+	<iostream>
+	<fstream>
+	<typeinfo>
+
+1334878408 e:\temp\course\cb\testexception\console.h
+	"Student.h"
+	"Course.h"
+
+1336052358 e:\temp\course\cb\testexception\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334224434 e:\temp\course\cb\testexception\date.h
+	<iostream>
+
+1336051884 e:\temp\course\cb\testexception\course.h
+	<string>
+	<iostream>
+
+1336051968 e:\temp\course\cb\testexception\obligatorycourse.h
+	"Course.h"
+
+1336051934 e:\temp\course\cb\testexception\electivecourse.h
+	"Course.h"
+
+1465697027 e:\temp\course\cb\testexception\myexception.h
+
+1336051806 source:e:\temp\course\cb\testexception\course.cpp
+	"Course.h"
+
+1465697471 source:e:\temp\course\cb\testexception\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1465711280 source:e:\temp\course\cb\testexception\electivecourse.cpp
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1334848306 source:e:\temp\course\cb\testexception\main.cpp
+	"Console.h"
+
+1465697339 source:e:\temp\course\cb\testexception\myexception.cpp
+	"MyException.h"
+
+1465697599 source:e:\temp\course\cb\testexception\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"MyException.h"
+
+1465697545 source:e:\temp\course\cb\testexception\student.cpp
+	"Student.h"
+	"MyException.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1336051806 source:c:\users\dell\desktop\07.testexception\testexception\course.cpp
+	"Course.h"
+
+1496739735 c:\users\dell\desktop\07.testexception\testexception\course.h
+	<string>
+	<iostream>
+
+1496737350 source:c:\users\dell\desktop\07.testexception\testexception\main.cpp
+	"Console.h"
+
+1496738673 c:\users\dell\desktop\07.testexception\testexception\console.h
+	"Student.h"
+	"Course.h"
+
+1496738349 c:\users\dell\desktop\07.testexception\testexception\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1496738116 c:\users\dell\desktop\07.testexception\testexception\date.h
+	<iostream>
+
+1465697598 source:c:\users\dell\desktop\07.testexception\testexception\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"MyException.h"
+
+1336051968 c:\users\dell\desktop\07.testexception\testexception\obligatorycourse.h
+	"Course.h"
+
+1496740053 c:\users\dell\desktop\07.testexception\testexception\myexception.h
+
+1496740165 source:c:\users\dell\desktop\07.testexception\testexception\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	"MyException.h"
+	<iostream>
+	<fstream>
+	<typeinfo>
+
+1336051934 c:\users\dell\desktop\07.testexception\testexception\electivecourse.h
+	"Course.h"
+
+1496738522 source:c:\users\dell\desktop\07.testexception\testexception\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1496738116 source:c:\users\dell\desktop\07.testexception\testexception\electivecourse.cpp
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1496740053 source:c:\users\dell\desktop\07.testexception\testexception\myexception.cpp
+	"MyException.h"
+
+1496738455 source:c:\users\dell\desktop\07.testexception\testexception\student.cpp
+	"Student.h"
+	"MyException.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,444 @@
+# depslib dependency file v1.0
+1494320221 source:e:\my documents\downloads\course\console.cpp
+	"Console.h"
+	<iostream>
+
+1493714822 e:\my documents\downloads\course\console.h
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494317986 e:\my documents\downloads\course\student.h
+	"Date.h"
+	"Course.h"
+
+1493108262 e:\my documents\downloads\course\date.h
+	<string>
+
+1494316251 e:\my documents\downloads\course\course.h
+	<string>
+
+1493714212 e:\my documents\downloads\course\obligatorycourse.h
+	"Course.h"
+
+1493714212 e:\my documents\downloads\course\electivecourse.h
+	"Course.h"
+
+1493713862 source:e:\my documents\downloads\course\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1493108284 source:e:\my documents\downloads\course\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1492501744 source:e:\my documents\downloads\course\electivecourse.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1493712554 source:e:\my documents\downloads\course\main.cpp
+	<iostream>
+	<string>
+	"Console.h"
+
+1492501824 source:e:\my documents\downloads\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494320221 source:e:\my documents\downloads\course\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1494922334 source:g:\面向对象的程序设计上机\course\console.cpp
+	"Console.h"
+	<iostream>
+
+1493714822 g:\面向对象的程序设计上机\course\console.h
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494317988 g:\面向对象的程序设计上机\course\student.h
+	"Date.h"
+	"Course.h"
+
+1493108262 g:\面向对象的程序设计上机\course\date.h
+	<string>
+
+1494316252 g:\面向对象的程序设计上机\course\course.h
+	<string>
+
+1493714212 g:\面向对象的程序设计上机\course\obligatorycourse.h
+	"Course.h"
+
+1493714212 g:\面向对象的程序设计上机\course\electivecourse.h
+	"Course.h"
+
+1494922602 source:g:\面向对象的程序设计上机\course\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1493108284 source:g:\面向对象的程序设计上机\course\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1492501744 source:g:\面向对象的程序设计上机\course\electivecourse.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1493712554 source:g:\面向对象的程序设计上机\course\main.cpp
+	<iostream>
+	<string>
+	"Console.h"
+
+1492501824 source:g:\面向对象的程序设计上机\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494922464 source:g:\面向对象的程序设计上机\course\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1494922602 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1494316252 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\course.h
+	<string>
+
+1493108284 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1493108262 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\date.h
+	<string>
+
+1492501744 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\electivecourse.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1493714212 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\electivecourse.h
+	"Course.h"
+
+1493712554 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\main.cpp
+	<iostream>
+	<string>
+	"Console.h"
+
+1493714822 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\console.h
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494317988 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\student.h
+	"Date.h"
+	"Course.h"
+
+1493714212 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\obligatorycourse.h
+	"Course.h"
+
+1492501824 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494922464 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1495382398 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<string>
+
+1495436617 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<string>
+
+1493714822 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\console.h
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494317988 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\student.h
+	"Date.h"
+	"Course.h"
+
+1493108262 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\date.h
+	<string>
+
+1494316252 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\course.h
+	<string>
+
+1493714212 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\obligatorycourse.h
+	"Course.h"
+
+1493714212 e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\electivecourse.h
+	"Course.h"
+
+1494922602 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1493108284 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1492501744 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\electivecourse.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1493712554 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\main.cpp
+	<iostream>
+	<string>
+	"Console.h"
+
+1492501824 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495382481 source:e:\文档\2017.1~4\c++面向对象\16211009_李昊天_course(2017.5.22)\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1494922602 source:e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1494316252 e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\course.h
+	<string>
+
+1493108284 source:e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\date.cpp
+	"Date.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1493108262 e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\date.h
+	<string>
+
+1492501744 source:e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\electivecourse.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1493714212 e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\electivecourse.h
+	"Course.h"
+
+1493712554 source:e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\main.cpp
+	<iostream>
+	<string>
+	"Console.h"
+
+1493714822 e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\console.h
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494317988 e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\student.h
+	"Date.h"
+	"Course.h"
+
+1493714212 e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\obligatorycourse.h
+	"Course.h"
+
+1492501824 source:e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495382482 source:e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1495528406 source:e:\my documents\downloads\16211009_李昊天_course(2017.5.22)\16211009_李昊天_course(2017.5.22)\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<string>
+
+1496731862 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<string>
+
+1496732962 f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\console.h
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1496732626 f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\student.h
+	"Date.h"
+	"Course.h"
+
+1496732626 f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\date.h
+	<string>
+
+1494316252 f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\course.h
+	<string>
+
+1493714212 f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\obligatorycourse.h
+	"Course.h"
+
+1493714212 f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\electivecourse.h
+	"Course.h"
+
+1494922602 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1496732482 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1496680044 f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\myexception.h
+
+1492501744 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\electivecourse.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1493712554 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\main.cpp
+	<iostream>
+	<string>
+	"Console.h"
+
+1496732114 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\myexception.cpp
+	"MyException.h"
+	<iostream>
+
+1492501824 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496732134 source:f:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\student.cpp
+	"Student.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+
+1496738634 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<string>
+
+1496732962 g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\console.h
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1496732626 g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\student.h
+	"Date.h"
+	"Course.h"
+
+1496732626 g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\date.h
+	<string>
+
+1496738170 g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\course.h
+	<string>
+	"MyException.h"
+
+1496738142 g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\obligatorycourse.h
+	"Course.h"
+
+1493714212 g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\electivecourse.h
+	"Course.h"
+
+1496737922 g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\myexception.h
+
+1494922602 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1496738142 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\electivecourse.cpp
+	"Course.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1493712554 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\main.cpp
+	<iostream>
+	<string>
+	"Console.h"
+
+1496738118 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496737894 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\student.cpp
+	"Student.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+
+1496738508 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
+1496737804 source:g:\面向对象的程序设计上机\16211009_李昊天_course_2017.5.22_\myexception.cpp
+	"MyException.h"
+	<iostream>
+

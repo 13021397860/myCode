@@ -1,0 +1,11 @@
+na  1998-1-1
+the course is:高级语言程序设计
+the creditHour is:3
+the score is:100
+the course is:大学物理
+the creditHour is:4
+the score is:95
+the course is:音乐欣赏
+the creditHour is:2
+the score is:0
+You have chosen 3 course

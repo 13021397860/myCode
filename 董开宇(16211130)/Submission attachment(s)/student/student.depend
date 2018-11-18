@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1496738428 source:d:\oo\student\date.cpp
+	<iostream>
+	"Date.h"
+	"MyException.h"
+
+1496737875 d:\oo\student\date.h
+	<iostream>
+
+1493716314 source:d:\oo\student\main.cpp
+	<iostream>
+	"student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"mainTest.h"
+
+1495531883 d:\oo\student\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1496740208 source:d:\oo\student\student.cpp
+	<iostream>
+	<cstring>
+	"student.h"
+	"Date.h"
+	<cstring>
+	"Course.h"
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1493110868 source:d:\oo\student\course.cpp
+	"Course.h"
+	<string>
+
+1494318902 d:\oo\student\course.h
+	<string>
+	<iostream>
+
+1492506743 source:d:\oo\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1492506743 d:\oo\student\electivecourse.h
+	"Course.h"
+
+1494318973 source:d:\oo\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494318973 d:\oo\student\obligatorycourse.h
+	"Course.h"
+
+1495528241 d:\oo\student\maintest.h
+	<iostream>
+	"student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1496740720 source:d:\oo\student\maintest.cpp
+	"mainTest.h"
+	<fstream>
+	<cstdlib>
+	"MyException.h"
+
+1496738749 source:d:\oo\student\myexception.cpp
+	"MyException.h"
+
+1496738738 d:\oo\student\myexception.h
+

@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1494317406 source:c:\users\ÕÅîÚÖÓ\desktop\3\course.cpp
+	"course.h"
+	<string.h>
+
+1494927306 c:\users\ÕÅîÚÖÓ\desktop\3\course.h
+	<iostream>
+
+1494927019 source:c:\users\ÕÅîÚÖÓ\desktop\3\main.cpp
+	<iostream>
+	"course.h"
+	"student.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"console.h"
+
+1491901890 source:c:\users\ÕÅîÚÖÓ\desktop\3\obligatorycourse.cpp
+	"obligatorycourse.h"
+
+1493717205 c:\users\ÕÅîÚÖÓ\desktop\3\obligatorycourse.h
+	"Course.h"
+
+1491902349 source:c:\users\ÕÅîÚÖÓ\desktop\3\electivecourse.cpp
+	"electivecourse.h"
+
+1493717205 c:\users\ÕÅîÚÖÓ\desktop\3\electivecourse.h
+	"Course.h"
+
+1493110600 source:c:\users\ÕÅîÚÖÓ\desktop\3\date.cpp
+	"date.h"
+	<iostream>
+
+1493110600 c:\users\ÕÅîÚÖÓ\desktop\3\date.h
+
+1494923223 source:c:\users\ÕÅîÚÖÓ\desktop\3\student.cpp
+	"student.h"
+	<iostream>
+	"date.h"
+	<cstring>
+
+1494922842 c:\users\ÕÅîÚÖÓ\desktop\3\student.h
+	"date.h"
+	"course.h"
+
+1494926986 source:c:\users\ÕÅîÚÖÓ\desktop\3\console.cpp
+	"console.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+
+1494926986 c:\users\ÕÅîÚÖÓ\desktop\3\console.h
+	"student.h"
+
+1494927306 source:c:\users\ÕÅîÚÖÓ\desktop\zz\3\course.cpp
+	"course.h"
+	<string.h>
+
+1494927306 c:\users\ÕÅîÚÖÓ\desktop\zz\3\course.h
+	<iostream>
+
+1493110600 source:c:\users\ÕÅîÚÖÓ\desktop\zz\3\date.cpp
+	"date.h"
+	<iostream>
+
+1493110600 c:\users\ÕÅîÚÖÓ\desktop\zz\3\date.h
+
+1491902349 source:c:\users\ÕÅîÚÖÓ\desktop\zz\3\electivecourse.cpp
+	"electivecourse.h"
+
+1493717205 c:\users\ÕÅîÚÖÓ\desktop\zz\3\electivecourse.h
+	"Course.h"
+
+1494927019 source:c:\users\ÕÅîÚÖÓ\desktop\zz\3\main.cpp
+	<iostream>
+	"course.h"
+	"student.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"console.h"
+
+1495532220 c:\users\ÕÅîÚÖÓ\desktop\zz\3\student.h
+	"date.h"
+	"course.h"
+
+1493717205 c:\users\ÕÅîÚÖÓ\desktop\zz\3\obligatorycourse.h
+	"Course.h"
+
+1494926986 c:\users\ÕÅîÚÖÓ\desktop\zz\3\console.h
+	"student.h"
+
+1491901890 source:c:\users\ÕÅîÚÖÓ\desktop\zz\3\obligatorycourse.cpp
+	"obligatorycourse.h"
+
+1495532295 source:c:\users\ÕÅîÚÖÓ\desktop\zz\3\student.cpp
+	"student.h"
+	<iostream>
+	"date.h"
+	<cstring>
+
+1495533263 source:c:\users\ÕÅîÚÖÓ\desktop\zz\3\console.cpp
+	"console.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<fstream>
+
+1496739951 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\console.cpp
+	"console.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<fstream>
+	"exception.h"
+
+1494926986 c:\users\ÕÅîÚÖÓ\desktop\file\3\console.h
+	"student.h"
+
+1495532220 c:\users\ÕÅîÚÖÓ\desktop\file\3\student.h
+	"date.h"
+	"course.h"
+
+1493110600 c:\users\ÕÅîÚÖÓ\desktop\file\3\date.h
+
+1494927306 c:\users\ÕÅîÚÖÓ\desktop\file\3\course.h
+	<iostream>
+
+1493717205 c:\users\ÕÅîÚÖÓ\desktop\file\3\obligatorycourse.h
+	"Course.h"
+
+1493717205 c:\users\ÕÅîÚÖÓ\desktop\file\3\electivecourse.h
+	"Course.h"
+
+1496739271 c:\users\ÕÅîÚÖÓ\desktop\file\3\myexception.h
+
+1494927306 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\course.cpp
+	"course.h"
+	<string.h>
+
+1493110600 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\date.cpp
+	"date.h"
+	<iostream>
+
+1491902349 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\electivecourse.cpp
+	"electivecourse.h"
+
+1494927019 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\main.cpp
+	<iostream>
+	"course.h"
+	"student.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"console.h"
+
+1496739506 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\exception.cpp
+	"exception.h"
+
+1496739836 c:\users\ÕÅîÚÖÓ\desktop\file\3\exception.h
+
+1491901890 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\obligatorycourse.cpp
+	"obligatorycourse.h"
+
+1495532295 source:c:\users\ÕÅîÚÖÓ\desktop\file\3\student.cpp
+	"student.h"
+	<iostream>
+	"date.h"
+	<cstring>
+

@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1495528603 source:d:\education\16211125\course.cpp
+	"Course.h"
+	<iostream>
+
+1496711984 d:\education\16211125\course.h
+	<string>
+
+1496712858 source:d:\education\16211125\date.cpp
+	"Date.h"
+	<iostream>
+
+1496712233 d:\education\16211125\date.h
+	<iostream>
+	"IllegalDate.h"
+
+1496664138 d:\education\16211125\illegaldate.h
+
+1496717989 source:d:\education\16211125\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+
+1496717989 d:\education\16211125\electivecourse.h
+	"Course.h"
+	"IllegalGrade.h"
+
+1496664175 d:\education\16211125\illegalgrade.h
+
+1496663566 source:d:\education\16211125\illegaldate.cpp
+	"IllegalDate.h"
+
+1496664122 source:d:\education\16211125\illegalgrade.cpp
+	"IllegalGrade.h"
+
+1495527262 source:d:\education\16211125\main.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Operation.h"
+
+1496736110 d:\education\16211125\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	"OutArray.h"
+
+1496664014 d:\education\16211125\outarray.h
+
+1496717989 d:\education\16211125\obligatorycourse.h
+	"Course.h"
+	"IllegalGrade.h"
+
+1496664465 d:\education\16211125\operation.h
+	"Date.h"
+	"Student.h"
+	<string>
+	<iostream>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<fstream>
+	"IllegalDate.h"
+	"IllegalGrade.h"
+	"OutArray.h"
+
+1496216708 source:d:\education\16211125\myexception.cpp
+	"MyException.h"
+
+1496663538 d:\education\16211125\myexception.h
+
+1496718055 source:d:\education\16211125\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+
+1496664014 source:d:\education\16211125\outarray.cpp
+	"OutArray.h"
+
+1496736110 source:d:\education\16211125\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+	<typeinfo>
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1496736744 source:d:\education\16211125\operation.cpp
+	"Operation.h"
+	<typeinfo>
+

@@ -1,0 +1,16 @@
+姓名：zj
+出生日期：1-1-1    0
+选课信息如下：
+姓名：zj
+出生日期：1-1-1    1
+选课信息如下：
+coursename: dawu    credit: 2   score: 99
+姓名：zjzj
+出生日期：5-5-5    0
+选课信息如下：
+coursename: yinyue    credit: 1   score: 0
+姓名：zy
+出生日期：4-4-4    2
+选课信息如下：
+coursename: gaoshu    credit: 2   score: 0
+coursename: dawu    credit: 2   score: 0

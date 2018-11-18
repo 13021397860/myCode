@@ -1,0 +1,9 @@
+Name: 1	Birth date: 1-1-1
+,   The information of courses selection: 
+The course name: AdvancedMathematics          The course credit: 3         Your course score: 0 
+The course name: TheoreticalPhysics          The course credit: 2         Your course score: 0 
+The course name: DataStructure          The course credit: 3         Your course score: 0 
+The course name: MartialArts          The course credit: 1         Your course score: 0 
+The course name: SpokenEnglish          The course credit: 1         Your course score: 0 
+
+

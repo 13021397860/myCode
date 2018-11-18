@@ -1,0 +1,3 @@
+xxx 出生日期: 1999-1-2
+ 选课信息如下：（如果没有说明没课）
+0  ObligatoryCourse : math| creditHour: 3

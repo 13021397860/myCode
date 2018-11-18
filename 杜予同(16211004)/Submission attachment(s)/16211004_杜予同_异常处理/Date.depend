@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1496737558 source:d:\buaa study\face to object\date\date.cpp
+	"Date.h"
+	<iostream>
+	<cstdio>
+	"MyException.h"
+
+1493108149 d:\buaa study\face to object\date\date.h
+	<iostream>
+	<stdio.h>
+
+1496737277 source:d:\buaa study\face to object\date\main.cpp
+	<iostream>
+	"Date.h"
+	"student.h"
+	"Course.h"
+	<string.h>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"GUI.h"
+
+1494320724 d:\buaa study\face to object\date\student.h
+	"Date.h"
+	"Course.h"
+	"typeinfo"
+
+1496738781 source:d:\buaa study\face to object\date\student.cpp
+	"student.h"
+	<string.h>
+	<iostream>
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"MyException.h"
+
+1494318509 source:d:\buaa study\face to object\date\course.cpp
+	"Course.h"
+
+1494921102 d:\buaa study\face to object\date\course.h
+	<iostream>
+	<string.h>
+
+1494318504 source:d:\buaa study\face to object\date\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494316907 d:\buaa study\face to object\date\obligatorycourse.h
+	"Course.h"
+
+1494316290 source:d:\buaa study\face to object\date\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494316290 d:\buaa study\face to object\date\electivecourse.h
+	"Course.h"
+
+1493109353 d:\buaa study\face to object\date\ui.h
+
+1496737907 source:d:\buaa study\face to object\date\gui.cpp
+	"GUI.h"
+	<iostream>
+	"Date.h"
+	"student.h"
+	"Course.h"
+	<string.h>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<fstream>
+	"MyException.h"
+
+1493711215 d:\buaa study\face to object\date\gui.h
+
+1496737259 source:d:\buaa study\face to object\date\myexception.cpp
+	"MyException.h"
+
+1496736777 d:\buaa study\face to object\date\myexception.h
+

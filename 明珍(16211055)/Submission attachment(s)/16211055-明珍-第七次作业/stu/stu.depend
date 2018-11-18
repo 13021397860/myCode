@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1494914128 source:d:\projects\codeblocks\stu\main.cpp
+	<stdlib.h>
+	"Console.h"
+
+1494899804 d:\projects\codeblocks\stu\console.h
+
+1496672734 source:d:\projects\codeblocks\stu\console.cpp
+	"Console.h"
+	<iostream>
+	"Student.h"
+	"Obligatorycourse.h"
+	"electivecourse.h"
+	"course.h"
+	<vector>
+	<fstream>
+	<string>
+	"MyException.h"
+	<stdlib.h>
+
+1495541930 d:\projects\codeblocks\stu\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1494899804 d:\projects\codeblocks\stu\date.h
+	<iostream>
+
+1494899433 d:\projects\codeblocks\stu\course.h
+	<string>
+	<iostream>
+
+1496672750 d:\projects\codeblocks\stu\obligatorycourse.h
+	"course.h"
+	"MyException.h"
+
+1496672764 d:\projects\codeblocks\stu\electivecourse.h
+	"Course.h"
+	"MyException.h"
+
+1495542623 source:d:\projects\codeblocks\stu\course.cpp
+	"course.h"
+
+1496672734 source:d:\projects\codeblocks\stu\date.cpp
+	"date.h"
+	<iostream>
+	"MyException.h"
+
+1494910835 source:d:\projects\codeblocks\stu\electivecourse.cpp
+	<iostream>
+	"electivecourse.h"
+	"string"
+
+1494914128 source:d:\projects\codeblocks\stu\obligatorycourse.cpp
+	"obligatorycourse.h"
+
+1495462863 source:d:\projects\codeblocks\stu\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<string.h>
+	"Course.h"
+	"electivecourse.h"
+
+1496672734 d:\projects\codeblocks\stu\include\myexception.h
+	<string>
+
+1496673464 source:c:\users\mindr\desktop\新建文件夹\stu\console.cpp
+	"Console.h"
+	<iostream>
+	"Student.h"
+	"Obligatorycourse.h"
+	"electivecourse.h"
+	"course.h"
+	<vector>
+	<fstream>
+	<string>
+	"MyException.h"
+	<stdlib.h>
+
+1496673464 c:\users\mindr\desktop\新建文件夹\stu\console.h
+
+1496739677 c:\users\mindr\desktop\新建文件夹\stu\student.h
+	"Date.h"
+	"Course.h"
+	<string>
+
+1496739677 c:\users\mindr\desktop\新建文件夹\stu\date.h
+	<iostream>
+
+1496739677 c:\users\mindr\desktop\新建文件夹\stu\course.h
+	<string>
+	<iostream>
+
+1496673464 c:\users\mindr\desktop\新建文件夹\stu\obligatorycourse.h
+	"course.h"
+	"MyException.h"
+
+1496673464 c:\users\mindr\desktop\新建文件夹\stu\include\myexception.h
+	<string>
+
+1496673464 c:\users\mindr\desktop\新建文件夹\stu\electivecourse.h
+	"Course.h"
+	"MyException.h"
+
+1496673464 source:c:\users\mindr\desktop\新建文件夹\stu\course.cpp
+	"course.h"
+
+1496673464 source:c:\users\mindr\desktop\新建文件夹\stu\date.cpp
+	"date.h"
+	<iostream>
+	"MyException.h"
+
+1496673464 source:c:\users\mindr\desktop\新建文件夹\stu\electivecourse.cpp
+	<iostream>
+	"electivecourse.h"
+	"string"
+
+1496673464 source:c:\users\mindr\desktop\新建文件夹\stu\main.cpp
+	<stdlib.h>
+	"Console.h"
+
+1496673464 source:c:\users\mindr\desktop\新建文件夹\stu\obligatorycourse.cpp
+	"obligatorycourse.h"
+
+1496673465 source:c:\users\mindr\desktop\新建文件夹\stu\src\myexception.cpp
+	"MyException.h"
+
+1496673464 source:c:\users\mindr\desktop\新建文件夹\stu\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<string.h>
+	"Course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"fstream"
+	<sstream>
+

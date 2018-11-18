@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1489480445 source:c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\date.cpp
+	<iostream>
+	"Date.h"
+	<iomanip>
+
+1489512618 c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\date.h
+
+1490709901 source:c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\main.cpp
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"student.h"
+	<cstdlib>
+
+1490688278 source:c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\main2.cpp
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"student.h"
+	<cstdlib>
+
+1490709621 c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\student.h
+	"date.h"
+
+1490710304 source:c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\student.cpp
+	<iostream>
+	<iomanip>
+	"student.h"
+	"Date.h"
+	<cstring>
+
+1493725076 source:c:\users\Ñî×¿\desktop\essential class\date.cpp
+	<iostream>
+	"Date.h"
+	<iomanip>
+
+1493725076 c:\users\Ñî×¿\desktop\essential class\date.h
+	<iostream>
+
+1493715562 source:c:\users\Ñî×¿\desktop\essential class\main.cpp
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<cstdlib>
+	"Runer.h"
+
+1495777192 c:\users\Ñî×¿\desktop\essential class\student.h
+	"date.h"
+	"Course.h"
+
+1496739782 source:c:\users\Ñî×¿\desktop\essential class\student.cpp
+	<iostream>
+	<iomanip>
+	"student.h"
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<cstring>
+	<typeinfo>
+	<fstream>
+
+1494412419 c:\users\Ñî×¿\desktop\essential class\course.h
+	<string>
+
+1495776127 source:c:\users\Ñî×¿\desktop\essential class\course.cpp
+	"Course.h"
+	<iostream>
+	<string>
+
+1495779500 source:c:\users\Ñî×¿\desktop\essential class\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+	"Course.h"
+
+1495779508 c:\users\Ñî×¿\desktop\essential class\electivecourse.h
+	"Course.h"
+
+1494921347 source:c:\users\Ñî×¿\desktop\essential class\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494318480 c:\users\Ñî×¿\desktop\essential class\obligatorycourse.h
+	"Course.h"
+
+1495774137 c:\users\Ñî×¿\desktop\essential class\runer.h
+
+1495779419 source:c:\users\Ñî×¿\desktop\essential class\runer.cpp
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<cstdlib>
+	"Runer.h"
+	<iomanip>
+	<fstream>
+
+1493716260 source:c:\users\Ñî×¿\desktop\essential class\src\run.cpp
+	"Run.h"
+
+1493715351 c:\users\Ñî×¿\desktop\essential class\include\run.h
+
+1496740312 source:c:\users\Ñî×¿\desktop\essential class\myexception.cpp
+	"MyException.h"
+
+1496739782 c:\users\Ñî×¿\desktop\essential class\myexception.h
+

@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1496664705 source:e:\作业\大一下\面向对象\student\date.cpp
+	"Date.h"
+	<iostream>
+	"MyException.h"
+
+1496660809 e:\作业\大一下\面向对象\student\date.h
+	<string>
+	<iostream>
+
+1493707939 source:e:\作业\大一下\面向对象\student\main.cpp
+	<iostream>
+	<string.h>
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Control.h"
+
+1496666406 e:\作业\大一下\面向对象\student\student.h
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+
+1496665425 source:e:\作业\大一下\面向对象\student\student.cpp
+	"Student.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<typeinfo>
+	<iostream>
+	<string.h>
+	"MyException.h"
+
+1495452182 source:e:\作业\大一下\面向对象\student\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1495452182 e:\作业\大一下\面向对象\student\course.h
+	<string>
+	<iostream>
+
+1494318349 source:e:\作业\大一下\面向对象\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+
+1494319621 e:\作业\大一下\面向对象\student\electivecourse.h
+	"Course.h"
+	<string>
+	<iostream>
+
+1494318349 source:e:\作业\大一下\面向对象\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+
+1494319621 e:\作业\大一下\面向对象\student\obligatorycourse.h
+	"Course.h"
+	<string>
+
+1496666700 source:e:\作业\大一下\面向对象\student\control.cpp
+	"Control.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Course.h"
+	<fstream>
+	"Student.h"
+	<typeinfo>
+	<string>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	"MyException.h"
+
+1495450683 e:\作业\大一下\面向对象\student\control.h
+	"Course.h"
+	"Student.h"
+	"fstream"
+
+1496659891 source:e:\作业\大一下\面向对象\student\myexception.cpp
+	"MyException.h"
+
+1496659924 e:\作业\大一下\面向对象\student\myexception.h
+

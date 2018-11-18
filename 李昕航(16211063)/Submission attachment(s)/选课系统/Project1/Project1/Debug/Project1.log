@@ -1,0 +1,6 @@
+﻿  Console.cpp
+c:\users\李昕航\documents\visual studio 2015\projects\project1\project1\student.h(29): warning C4114: 多次使用同一类型限定符
+c:\users\李昕航\documents\visual studio 2015\projects\project1\project1\student.h(30): warning C4114: 多次使用同一类型限定符
+c:\users\李昕航\documents\visual studio 2015\projects\project1\project1\console.cpp(220): warning C4715: “Console::selectCourse”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\李昕航\Documents\Visual Studio 2015\Projects\Project1\Debug\教务系统.exe
+  Project1.vcxproj -> C:\Users\李昕航\Documents\Visual Studio 2015\Projects\Project1\Debug\教务系统.pdb (Partial PDB)

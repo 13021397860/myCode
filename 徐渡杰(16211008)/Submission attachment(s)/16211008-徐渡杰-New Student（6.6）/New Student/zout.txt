@@ -1,0 +1,5 @@
+name of student:xudujei
+date of birthday:0002-03-04
+
+course:
+    Haven't added course!

@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1496741460 source:d:\works in buaa\c++\projects\debug\3\16211058\console.cpp
+	"Console.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<typeinfo>
+	<cstdio>
+	<cstring>
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1495529855 d:\works in buaa\c++\projects\debug\3\16211058\console.h
+	"Student.h"
+	"Date.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1495525106 d:\works in buaa\c++\projects\debug\3\16211058\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1493713900 d:\works in buaa\c++\projects\debug\3\16211058\date.h
+	<iostream>
+
+1494311760 d:\works in buaa\c++\projects\debug\3\16211058\course.h
+	<iostream>
+	<string>
+
+1494312302 d:\works in buaa\c++\projects\debug\3\16211058\obligatorycourse.h
+	"Course.h"
+	<cstring>
+
+1494311760 d:\works in buaa\c++\projects\debug\3\16211058\electivecourse.h
+	"Course.h"
+	<cstring>
+
+1496741054 d:\works in buaa\c++\projects\debug\3\16211058\myexception.h
+	<iostream>
+	<string>
+
+1495461136 source:d:\works in buaa\c++\projects\debug\3\16211058\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1496741221 source:d:\works in buaa\c++\projects\debug\3\16211058\date.cpp
+	"Date.h"
+	<cstdio>
+	<iostream>
+	"MyException.h"
+
+1496730354 source:d:\works in buaa\c++\projects\debug\3\16211058\electivecourse.cpp
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+
+1496740988 source:d:\works in buaa\c++\projects\debug\3\16211058\main.cpp
+	<iostream>
+	"Console.h"
+	"MyException.h"
+
+1496730354 source:d:\works in buaa\c++\projects\debug\3\16211058\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+
+1496741075 source:d:\works in buaa\c++\projects\debug\3\16211058\student.cpp
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<cstring>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1496741111 source:d:\works in buaa\c++\projects\debug\3\16211058\myexception.cpp
+	"MyException.h"
+	<iostream>
+	<string>
+

@@ -1,0 +1,5 @@
+lethe 1998 12 9
+mathematics                   4              100	Obligatory
+algebra                       4              98	Obligatory
+data_structure                4              99	Obligatory
+aerospace_introduction        2              95	Elective

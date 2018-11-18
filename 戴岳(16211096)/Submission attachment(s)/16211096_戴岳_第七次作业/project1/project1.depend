@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1494318697 source:d:\project\project1\main.cpp
+	"console.h"
+
+1493109343 source:d:\project\project1\date.cpp
+	"date.h"
+	<iostream>
+	<iomanip>
+
+1493108723 d:\project\project1\date.h
+	<iostream>
+
+1495527878 d:\project\project1\student.h
+	"date.h"
+	"course.h"
+
+1496739945 source:d:\project\project1\student.cpp
+	"student.h"
+	"date.h"
+	"cstring"
+	"course.h"
+	"electivecourse.h"
+	"obligatorycourse.h"
+	"myexception.h"
+	<iostream>
+	<iomanip>
+	<typeinfo>
+
+1494318697 source:d:\project\project1\course.cpp
+	"course.h"
+	<iomanip>
+	<iostream>
+
+1494318206 d:\project\project1\course.h
+	<iostream>
+
+1493110701 source:d:\project\project1\obligatorycourse.cpp
+	"obligatorycourse.h"
+	<iomanip>
+
+1493118572 d:\project\project1\obligatorycourse.h
+	"course.h"
+
+1493118768 source:d:\project\project1\electivecourse.cpp
+	"electivecourse.h"
+	<iomanip>
+
+1494318206 d:\project\project1\electivecourse.h
+	<iostream>
+	"course.h"
+
+1496739582 source:d:\project\project1\console.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<fstream>
+	"date.h"
+	"student.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	"console.h"
+	"myexception.h"
+
+1496739245 d:\project\project1\console.h
+	"student.h"
+
+1496738402 d:\project\project1\myexception.h
+	<iostream>
+
+1496738427 source:d:\project\project1\myexception.cpp
+	"myexception.h"
+	<iostream>
+

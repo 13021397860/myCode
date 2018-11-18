@@ -1,0 +1,4 @@
+1 math    4 87
+2 asd     2 A
+1 Chinese 3 78
+1 English 3 80

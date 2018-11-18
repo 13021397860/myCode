@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489482128 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\date1\date1\date.cpp
+	<iostream>
+	"Date.h"
+
+1489482140 c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\date1\date1\date.h
+
+1489480476 source:c:\users\萌萌哒ly小朋友和她的伙伴们\documents\ly\面向对象\date1\date1\main.cpp
+	"Date.h"
+	<iostream>
+

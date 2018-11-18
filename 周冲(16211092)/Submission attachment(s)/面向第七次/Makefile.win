@@ -1,0 +1,49 @@
+# Project: 项目2
+# Makefile created by Dev-C++ 5.6.0
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o Student.o Date.o Course.o Console.o ElectiveCourse.o ObligatoryCourse.o MyException.o
+LINKOBJ  = main.o Student.o Date.o Course.o Console.o ElectiveCourse.o ObligatoryCourse.o MyException.o
+LIBS     = -L"D:/Dec-C++/Dev-Cpp/MinGW32/lib" -L"D:/Dec-C++/Dev-Cpp/MinGW32/mingw32/lib" -static-libstdc++ -static-libgcc
+INCS     = -I"D:/Dec-C++/Dev-Cpp/MinGW32/include" -I"D:/Dec-C++/Dev-Cpp/MinGW32/mingw32/include" -I"D:/Dec-C++/Dev-Cpp/MinGW32/lib/gcc/mingw32/4.8.1/include"
+CXXINCS  = -I"D:/Dec-C++/Dev-Cpp/MinGW32/include" -I"D:/Dec-C++/Dev-Cpp/MinGW32/mingw32/include" -I"D:/Dec-C++/Dev-Cpp/MinGW32/lib/gcc/mingw32/4.8.1/include" -I"D:/Dec-C++/Dev-Cpp/MinGW32/lib/gcc/mingw32/4.8.1/include/c++"
+BIN      = 项目.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+Student.o: Student.cpp
+	$(CPP) -c Student.cpp -o Student.o $(CXXFLAGS)
+
+Date.o: Date.cpp
+	$(CPP) -c Date.cpp -o Date.o $(CXXFLAGS)
+
+Course.o: Course.cpp
+	$(CPP) -c Course.cpp -o Course.o $(CXXFLAGS)
+
+Console.o: Console.cpp
+	$(CPP) -c Console.cpp -o Console.o $(CXXFLAGS)
+
+ElectiveCourse.o: ElectiveCourse.cpp
+	$(CPP) -c ElectiveCourse.cpp -o ElectiveCourse.o $(CXXFLAGS)
+
+ObligatoryCourse.o: ObligatoryCourse.cpp
+	$(CPP) -c ObligatoryCourse.cpp -o ObligatoryCourse.o $(CXXFLAGS)
+
+MyException.o: MyException.cpp
+	$(CPP) -c MyException.cpp -o MyException.o $(CXXFLAGS)

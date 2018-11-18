@@ -1,0 +1,7 @@
+1 OCourseA 4
+1 OCourseB 4
+1 OCourseC 2
+1 OCourseD 3
+2 ECourseA 2
+2 ECourseB 3
+2 ECourseC 2

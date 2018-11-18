@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1496738873 source:f:\资料\c++\oo\date\date.cpp
+	"date.h"
+	<iostream>
+	<cstdio>
+
+1493110362 f:\资料\c++\oo\date\date.h
+	<string>
+	<iostream>
+
+1495525979 source:f:\资料\c++\oo\date\main.cpp
+	<iostream>
+	<windows.h>
+	"student.h"
+	"date.h"
+	"choosecoursegui.h"
+
+1490087536 source:f:\资料\c++\oo\date\mystring.cpp
+	"mystring.h"
+	<cstring>
+
+1490087544 f:\资料\c++\oo\date\mystring.h
+	<iostream>
+
+1495466823 source:f:\资料\c++\oo\date\student.cpp
+	"student.h"
+	<cstring>
+	<iostream>
+	"date.h"
+	"course.h"
+	<typeinfo>
+
+1495525951 f:\资料\c++\oo\date\student.h
+	<iostream>
+	"date.h"
+	<string>
+	"course.h"
+	"electivecourse.h"
+	"obligatorycourse.h"
+	<iomanip>
+
+1491899030 source:f:\资料\c++\oo\date\course.cpp
+	"course.h"
+
+1494318686 f:\资料\c++\oo\date\course.h
+	<string>
+	<iostream>
+
+1491899623 source:f:\资料\c++\oo\date\obligatorycourse.cpp
+	"obligatorycourse.h"
+
+1496737345 f:\资料\c++\oo\date\obligatorycourse.h
+	"course.h"
+	"myexception.h"
+
+1493712413 source:f:\资料\c++\oo\date\electivecourse.cpp
+	"electivecourse.h"
+
+1493715704 f:\资料\c++\oo\date\electivecourse.h
+	"course.h"
+
+1496739738 source:f:\资料\c++\oo\date\choosecoursegui.cpp
+	"choosecoursegui.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<typeinfo>
+	<sstream>
+	<climits>
+
+1496738728 f:\资料\c++\oo\date\choosecoursegui.h
+	"student.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<iostream>
+	<vector>
+
+1496739060 source:f:\资料\c++\oo\date\myexception.cpp
+	"myexception.h"
+
+1496739063 f:\资料\c++\oo\date\myexception.h
+	<exception>
+

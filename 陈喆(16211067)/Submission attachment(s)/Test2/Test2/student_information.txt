@@ -1,0 +1,4 @@
+******* name: chenzhe birthday: 1900-1-1 *******
+******* the selected course: *******
+******* None *******
+CreditGrade: 0

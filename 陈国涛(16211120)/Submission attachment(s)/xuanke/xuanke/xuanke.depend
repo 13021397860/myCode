@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1494317562 source:h:\project4\xuanke\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1496735826 h:\project4\xuanke\course.h
+	<string>
+	"MyException.h"
+
+1496735316 source:h:\project4\xuanke\date.cpp
+	<iostream>
+	"Date.h"
+
+1496732372 h:\project4\xuanke\date.h
+	<iostream>
+	"MyException.h"
+
+1493565781 source:h:\project4\xuanke\main.cpp
+	<iostream>
+	"Student.h"
+	"xuanke.h"
+
+1495336741 source:h:\project4\xuanke\student.cpp
+	"Student.h"
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<typeinfo>
+
+1494318484 h:\project4\xuanke\student.h
+	"Date.h"
+	"Obligatory.h"
+	"ElectiveCourse.h"
+	<iostream>
+
+1496736244 source:h:\project4\xuanke\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+
+1496735826 h:\project4\xuanke\electivecourse.h
+	"Course.h"
+
+1496736244 source:h:\project4\xuanke\obligatory.cpp
+	"Obligatory.h"
+	<iostream>
+
+1496735926 h:\project4\xuanke\obligatory.h
+	"Course.h"
+
+1496736680 source:h:\project4\xuanke\xuanke.cpp
+	"xuanke.h"
+	<cstring>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1496714381 h:\project4\xuanke\xuanke.h
+	"Student.h"
+	"MyException.h"
+
+1496735248 source:h:\project4\xuanke\myexception.cpp
+	"MyException.h"
+
+1496735262 h:\project4\xuanke\myexception.h
+	<cstring>
+	<iostream>
+

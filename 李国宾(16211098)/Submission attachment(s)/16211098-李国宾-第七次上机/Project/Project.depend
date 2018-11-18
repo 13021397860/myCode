@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1496736201 source:c:\users\81591\desktop\oo\project\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1496735959 c:\users\81591\desktop\oo\project\date.h
+	<iostream>
+
+1493713593 source:c:\users\81591\desktop\oo\project\main.cpp
+	"Console.h"
+
+1488875035 c:\users\81591\desktop\oo\project\date.cpp
+	<iostream>
+	"date.h"
+
+1490683701 source:c:\users\81591\desktop\oo\date\date.cpp
+	"Date.h"
+	<iostream>
+
+1490688996 c:\users\81591\desktop\oo\date\date.h
+
+1490687756 source:c:\users\81591\desktop\oo\date\main.cpp
+	"Date.h"
+	"Student.h"
+	<iostream>
+	<iomanip>
+
+1490688989 source:c:\users\81591\desktop\oo\date\student.cpp
+	"Date.h"
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1490686494 c:\users\81591\desktop\oo\date\student.h
+
+1495525303 source:c:\users\81591\desktop\oo\project\course.cpp
+	"Course.h"
+
+1495515899 source:c:\users\81591\desktop\oo\project\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1496738028 c:\users\81591\desktop\oo\project\student.h
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"Date.h"
+	"MyException.h"
+
+1494315808 source:c:\users\81591\desktop\oo\project\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496738030 source:c:\users\81591\desktop\oo\project\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+	<windows.h>
+	<typeinfo>
+
+1494315905 c:\users\81591\desktop\oo\project\course.h
+	<iostream>
+	<iomanip>
+	<typeinfo>
+
+1494316027 c:\users\81591\desktop\oo\project\obligatorycourse.h
+	"Course.h"
+
+1495515950 c:\users\81591\desktop\oo\project\electivecourse.h
+	"Course.h"
+
+1496737347 c:\users\81591\desktop\oo\project\console.h
+	"Date.h"
+	"MyException.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<windows.h>
+
+1496738123 source:c:\users\81591\desktop\oo\project\console.cpp
+	"Console.h"
+
+1494315832 c:\users\81591\desktop\oo\project\getscore.h
+
+1496735515 c:\users\81591\desktop\oo\project\myexception.h
+	<iostream>
+
+1496736380 source:c:\users\81591\desktop\oo\project\myexception.cpp
+	"MyException.h"
+

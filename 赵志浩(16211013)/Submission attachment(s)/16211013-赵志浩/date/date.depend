@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1489478399 source:f:\资料\c++\oo\date\main.cpp
+	<iostream>
+	<windows.h>
+	"date.h"
+
+1489476857 source:f:\资料\c++\oo\date\date.cpp
+	"date.h"
+	<iostream>
+
+1489476959 f:\资料\c++\oo\date\date.h
+

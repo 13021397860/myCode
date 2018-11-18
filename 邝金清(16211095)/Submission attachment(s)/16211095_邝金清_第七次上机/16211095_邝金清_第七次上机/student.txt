@@ -1,0 +1,6 @@
+	-----The Student Info-----
+Name: Bob
+Birth Date: 1753-8-6
+The following is his(her) course info:
+(1)Name:Math	CreditHour:5	Score: 98
+(2)Name:Gym	CreditHour:2	Score: 95

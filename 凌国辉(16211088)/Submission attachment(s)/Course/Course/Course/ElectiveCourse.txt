@@ -1,0 +1,3 @@
+3d 1
+pe 1
+chinese 2

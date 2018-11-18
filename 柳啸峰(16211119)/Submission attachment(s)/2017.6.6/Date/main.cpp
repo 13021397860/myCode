@@ -1,0 +1,15 @@
+#include <iostream>
+#include <iomanip>
+#include "Date.h"
+#include "Students.h"
+#include "Course.h"
+#include "ObligatoryCourse.h"
+#include "ElectiveCourse.h" 
+#include <cstdio>
+#include "Text.h"
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+using namespace std;
+int main(int argc, char** argv) {
+	Text text;
+	text.run();
+}

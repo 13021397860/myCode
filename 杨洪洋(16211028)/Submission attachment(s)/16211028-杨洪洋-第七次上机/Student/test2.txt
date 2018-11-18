@@ -1,0 +1,4 @@
+Name: y Birthday: 1998-1-1
+, some information about the courses: 
+CourseName: a Kind:  ObligetoryCourse  Credit: 3 Grade: 99
+

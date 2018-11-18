@@ -1,0 +1,5 @@
+Name: a BirhtDate: 1/1/1
+CreditHour£º0
+The course he/she have choosed are:
+Coursename: c++2  CreditHour:3
+

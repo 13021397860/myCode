@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1490683491 source:d:\我爱学习\面向对象\date\date.cpp
+	<iostream>
+	"date.h"
+
+1490087414 d:\我爱学习\面向对象\date\date.h
+
+1490685286 source:d:\我爱学习\面向对象\date\main.cpp
+	<iostream>
+	"date.h"
+	"student.h"
+
+1490684886 d:\我爱学习\面向对象\date\student.h
+	"date.h"
+
+1490686765 source:d:\我爱学习\面向对象\date\student.cpp
+	<iostream>
+	<cstring>
+	"date.h"
+	"student.h"
+
+1496738799 source:d:\我爱学习\面向对象\student\date.cpp
+	<iostream>
+	"date.h"
+	"myException.h"
+
+1492498912 d:\我爱学习\面向对象\student\date.h
+	<iostream>
+
+1493716528 source:d:\我爱学习\面向对象\student\main.cpp
+	"test.h"
+
+1496743121 d:\我爱学习\面向对象\student\student.h
+	"date.h"
+	"course.h"
+	"electiveCourse.h"
+	"obligatoryCourse.h"
+	<iostream>
+	<string>
+
+1496743121 source:d:\我爱学习\面向对象\student\student.cpp
+	<iostream>
+	<cstring>
+	<typeinfo>
+	"date.h"
+	"student.h"
+	"course.h"
+	"obligatoryCourse.h"
+	"electiveCourse.h"
+	"myException.h"
+
+1494926586 d:\我爱学习\面向对象\student\course.h
+	<iostream>
+	<string>
+
+1494926536 source:d:\我爱学习\面向对象\student\course.cpp
+	<iostream>
+	"course.h"
+	"electiveCourse.h"
+	"obligatoryCourse.h"
+	<string>
+	<typeinfo>
+	<cstdlib>
+
+1494926536 d:\我爱学习\面向对象\student\obligatorycourse.h
+	"course.h"
+
+1494926536 d:\我爱学习\面向对象\student\electivecourse.h
+	"electiveCourse.h"
+	"course.h"
+
+1494926536 source:d:\我爱学习\面向对象\student\electivecourse.cpp
+	<iostream>
+	<string>
+	"electiveCourse.h"
+	"course.h"
+
+1494926536 source:d:\我爱学习\面向对象\student\obligatorycourse.cpp
+	<iostream>
+	"obligatoryCourse.h"
+	"course.h"
+	<string>
+
+1495529770 d:\我爱学习\面向对象\student\test.h
+	"student.h"
+	"course.h"
+
+1496743351 source:d:\我爱学习\面向对象\student\test.cpp
+	<iostream>
+	<fstream>
+	"date.h"
+	"student.h"
+	"course.h"
+	"obligatoryCourse.h"
+	"electiveCourse.h"
+	<string>
+	"test.h"
+	"myException.h"
+	<typeinfo>
+
+1496738598 source:d:\我爱学习\面向对象\student\myexception.cpp
+	"myException.h"
+
+1496738444 d:\我爱学习\面向对象\student\myexception.h
+	"date.h"
+	"student.h"
+	"course.h"
+

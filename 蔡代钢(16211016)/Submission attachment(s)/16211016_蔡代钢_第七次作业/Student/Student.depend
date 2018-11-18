@@ -1,0 +1,416 @@
+# depslib dependency file v1.0
+1496735492 source:d:\code\student\data.cpp
+	"Data.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1496730110 d:\code\student\data.h
+	"MyException.h"
+	<iostream>
+
+1496735200 source:d:\code\student\main.cpp
+	"Student.h"
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1495448063 d:\code\student\student.h
+	"Data.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iomanip>
+
+1496731300 source:d:\code\student\student.cpp
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1494316653 d:\code\student\course.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1494316672 source:d:\code\student\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1496731707 d:\code\student\obligatorycourse.h
+	"Course.h"
+	"MyException.h"
+
+1496731675 source:d:\code\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1496731707 d:\code\student\electivecourse.h
+	"Course.h"
+	"MyException.h"
+
+1496731675 source:d:\code\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1496731675 source:d:\code\student\operation.cpp
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<fstream>
+
+1496730757 d:\code\student\operation.h
+	"Student.h"
+
+1493713153 source:d:\code\16211016_蔡代钢_第四次作业\student\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493713851 d:\code\16211016_蔡代钢_第四次作业\student\course.h
+	<string>
+	<iostream>
+
+1493713203 source:d:\code\16211016_蔡代钢_第四次作业\student\data.cpp
+	"Data.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493445033 d:\code\16211016_蔡代钢_第四次作业\student\data.h
+	<iostream>
+
+1493713153 source:d:\code\16211016_蔡代钢_第四次作业\student\main.cpp
+	"Student.h"
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493713851 d:\code\16211016_蔡代钢_第四次作业\student\student.h
+	"Data.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1491906821 d:\code\16211016_蔡代钢_第四次作业\student\obligatorycourse.h
+	"Course.h"
+
+1491906821 d:\code\16211016_蔡代钢_第四次作业\student\electivecourse.h
+	"Course.h"
+
+1493451193 d:\code\16211016_蔡代钢_第四次作业\student\operation.h
+	"Student.h"
+
+1493713153 source:d:\code\16211016_蔡代钢_第四次作业\student\student.cpp
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493713203 source:d:\code\16211016_蔡代钢_第四次作业\student\student\data.cpp
+	"Data.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493445033 d:\code\16211016_蔡代钢_第四次作业\student\student\data.h
+	<iostream>
+
+1493714442 source:d:\code\16211016_蔡代钢_第四次作业\student\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714442 d:\code\16211016_蔡代钢_第四次作业\student\student\electivecourse.h
+	"Course.h"
+
+1493714873 d:\code\16211016_蔡代钢_第四次作业\student\student\course.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1493713153 source:d:\code\16211016_蔡代钢_第四次作业\student\student\main.cpp
+	"Student.h"
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714715 d:\code\16211016_蔡代钢_第四次作业\student\student\student.h
+	"Data.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iomanip>
+
+1493714442 d:\code\16211016_蔡代钢_第四次作业\student\student\obligatorycourse.h
+	"Course.h"
+
+1493451193 d:\code\16211016_蔡代钢_第四次作业\student\student\operation.h
+	"Student.h"
+
+1493714442 source:d:\code\16211016_蔡代钢_第四次作业\student\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714442 source:d:\code\16211016_蔡代钢_第四次作业\student\student\operation.cpp
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493713153 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student.cpp
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714474 source:d:\code\16211016_蔡代钢_第四次作业\student\student\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714474 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714873 d:\code\16211016_蔡代钢_第四次作业\student\student\student\course.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1493713203 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student\data.cpp
+	"Data.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493445033 d:\code\16211016_蔡代钢_第四次作业\student\student\student\data.h
+	<iostream>
+
+1493714442 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714442 d:\code\16211016_蔡代钢_第四次作业\student\student\student\electivecourse.h
+	"Course.h"
+
+1493713153 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student\main.cpp
+	"Student.h"
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714715 d:\code\16211016_蔡代钢_第四次作业\student\student\student\student.h
+	"Data.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iomanip>
+
+1493714442 d:\code\16211016_蔡代钢_第四次作业\student\student\student\obligatorycourse.h
+	"Course.h"
+
+1493451193 d:\code\16211016_蔡代钢_第四次作业\student\student\student\operation.h
+	"Student.h"
+
+1493714442 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493714442 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student\operation.cpp
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493713153 source:d:\code\16211016_蔡代钢_第四次作业\student\student\student\student.cpp
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1494316672 source:d:\code\student\student\student\student\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1494316653 d:\code\student\student\student\student\course.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1493713203 source:d:\code\student\student\student\student\data.cpp
+	"Data.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1493445033 d:\code\student\student\student\student\data.h
+	<iostream>
+
+1494316653 source:d:\code\student\student\student\student\electivecourse.cpp
+	"ElectiveCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1494316653 d:\code\student\student\student\student\electivecourse.h
+	"Course.h"
+
+1494316691 source:d:\code\student\student\student\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1494316653 d:\code\student\student\student\student\obligatorycourse.h
+	"Course.h"
+
+1494921097 source:d:\code\student\student\student\student\operation.cpp
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1494319549 d:\code\student\student\student\student\operation.h
+	"Student.h"
+
+1494318203 d:\code\student\student\student\student\student.h
+	"Data.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iomanip>
+
+1494920948 source:d:\code\student\student\student\student\student.cpp
+	"Student.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1494319911 source:d:\code\student\student\student\student\main.cpp
+	"Student.h"
+	"operation.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1496735362 d:\code\student\myexception.h
+
+1496735362 source:d:\code\student\myexception.cpp
+	"MyException.h"
+

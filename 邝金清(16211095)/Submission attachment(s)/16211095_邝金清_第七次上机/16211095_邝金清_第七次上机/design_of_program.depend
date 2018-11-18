@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1490689248 source:c:\users\邝金清\desktop\my_project\date.cpp
+	<stdio.h>
+	"date.h"
+
+1490689248 c:\users\邝金清\desktop\my_project\date.h
+
+1490691110 source:c:\users\邝金清\desktop\my_project\student.cpp
+	"student.h"
+	<cstring>
+	<stdio.h>
+
+1490692595 c:\users\邝金清\desktop\my_project\student.h
+	"date.h"
+
+1490691963 source:c:\users\邝金清\desktop\my_project\main.cpp
+	<stdio.h>
+	"student.h"
+
+1491897688 source:c:\users\邝金清\desktop\16211095_邝金清_第二次上机\course.cpp
+	"course.h"
+
+1491897664 c:\users\邝金清\desktop\16211095_邝金清_第二次上机\course.h
+	<string>
+
+1490689248 source:c:\users\邝金清\desktop\16211095_邝金清_第二次上机\date.cpp
+	<stdio.h>
+	"date.h"
+
+1490689248 c:\users\邝金清\desktop\16211095_邝金清_第二次上机\date.h
+
+1491899253 source:c:\users\邝金清\desktop\16211095_邝金清_第二次上机\main.cpp
+	"student.h"
+
+1491899253 source:c:\users\邝金清\desktop\16211095_邝金清_第二次上机\student.cpp
+	"student.h"
+	<cstring>
+	<stdio.h>
+	<iostream>
+
+1491898392 c:\users\邝金清\desktop\16211095_邝金清_第二次上机\student.h
+	"date.h"
+	"course.h"
+
+1493109218 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\course.cpp
+	"elective_course.h"
+
+1493109083 c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\course.h
+	<string>
+	<iostream>
+
+1493108582 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\date.cpp
+	<stdio.h>
+	"date.h"
+
+1493108720 c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\date.h
+	<iostream>
+
+1493688476 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\main.cpp
+	"console.h"
+
+1493688494 c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\student.h
+	"date.h"
+	"course.h"
+
+1493689936 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\student.cpp
+	"student.h"
+	<cstring>
+	<stdio.h>
+	<iostream>
+
+1492501984 c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\elective_course.h
+	"course.h"
+	<iostream>
+
+1492501984 c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\obligatory_course.h
+	"course.h"
+	<iostream>
+
+1493688476 c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\console.h
+	"student.h"
+
+1493712341 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第三次上机\console.cpp
+	"console.h"
+	"student.h"
+	"obligatory_course.h"
+	"elective_course.h"
+	<iostream>
+	<typeinfo>
+
+1494317292 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\console.cpp
+	"console.h"
+	"student.h"
+	"obligatory_course.h"
+	"elective_course.h"
+	<iostream>
+	<typeinfo>
+
+1493688476 c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\console.h
+	"student.h"
+
+1494317292 c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\student.h
+	"date.h"
+	"course.h"
+	"obligatory_course.h"
+	"elective_course.h"
+
+1493108720 c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\date.h
+	<iostream>
+
+1494317530 c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\course.h
+	<string>
+	<iostream>
+
+1494317292 c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\obligatory_course.h
+	"course.h"
+	<iostream>
+
+1494317403 c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\elective_course.h
+	"course.h"
+	<iostream>
+
+1494317519 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\course.cpp
+	"elective_course.h"
+
+1493108582 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\date.cpp
+	<stdio.h>
+	"date.h"
+
+1493688476 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\main.cpp
+	"console.h"
+
+1494317553 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第四次上机\student.cpp
+	"student.h"
+	<typeinfo>
+	<cstring>
+	<stdio.h>
+	<iostream>
+
+1496731037 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\console.cpp
+	"console.h"
+	"student.h"
+	"obligatory_course.h"
+	"elective_course.h"
+	<iostream>
+	<fstream>
+	<typeinfo>
+
+1493688476 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\console.h
+	"student.h"
+
+1494317292 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\student.h
+	"date.h"
+	"course.h"
+	"obligatory_course.h"
+	"elective_course.h"
+
+1496729141 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\date.h
+	<iostream>
+	"my_exception.h"
+
+1496730349 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\course.h
+	<string>
+	<iostream>
+	"my_exception.h"
+
+1496730968 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\obligatory_course.h
+	"course.h"
+	<iostream>
+
+1496730349 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\elective_course.h
+	"course.h"
+	<iostream>
+
+1494317519 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\course.cpp
+	"elective_course.h"
+
+1496729141 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\date.cpp
+	<stdio.h>
+	"date.h"
+
+1495527780 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\main.cpp
+	"console.h"
+	<iostream>
+
+1496731037 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\student.cpp
+	"student.h"
+	<typeinfo>
+	<cstring>
+	<stdio.h>
+	<iostream>
+
+1495525565 source:c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\coursefile.cpp
+	"coursefile.h"
+
+1495525605 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\coursefile.h
+	<iostream>
+	<string>
+
+1496730820 c:\users\邝金清\documents\my_project\16211095_邝金清_第五次上机\my_exception.h
+	<iostream>
+

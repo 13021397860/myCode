@@ -1,0 +1,7 @@
+0 English 4
+0 Linar_algebra 3
+0 Physics 4
+0 Calcuus 4
+1 Data_structure 4
+1 HTML5 4
+1 JAVA 4

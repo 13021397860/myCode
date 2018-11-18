@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1489413331 source:c:\users\dell\desktop\面向对象\新建文件夹\student\date.cpp
+	"Date.h"
+	<iostream>
+
+1490091718 c:\users\dell\desktop\面向对象\新建文件夹\student\date.h
+
+1490092481 source:c:\users\dell\desktop\面向对象\新建文件夹\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1490091783 source:c:\users\dell\desktop\面向对象\新建文件夹\student\student.cpp
+	"Student.h"
+	"Date.h"
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1490091514 c:\users\dell\desktop\面向对象\新建文件夹\student\student.h
+	"Date.h"
+
+1490690694 source:c:\users\dell\desktop\面向对象\student\date.cpp
+	"Date.h"
+	<iostream>
+
+1490091718 c:\users\dell\desktop\面向对象\student\date.h
+
+1490690453 source:c:\users\dell\desktop\面向对象\student\student.cpp
+	"Student.h"
+	"Date.h"
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1490688786 c:\users\dell\desktop\面向对象\student\student.h
+	"Date.h"
+
+1490690469 source:c:\users\dell\desktop\面向对象\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1491897447 source:c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1491897465 c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\date.h
+
+1490690944 source:c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\main.cpp
+	<iostream>
+	"Student.h"
+
+1491901949 c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\student.h
+	"Date.h"
+	"Course.h"
+
+1491901949 source:c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1491898032 source:c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\course.cpp
+	"Course.h"
+
+1491900537 c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\course.h
+	<string>
+
+1491900099 source:c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1491900099 c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\electivecourse.h
+	"Course.h"
+
+1491900016 c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\obligatorycourse.h
+	"Course.h"
+
+1491899584 source:c:\users\dell\desktop\面向对象\16211017-仇善召-第二次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493111211 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\course.cpp
+	"Course.h"
+
+1492504155 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\course.h
+	<string>
+	<iostream>
+
+1493109066 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1493108695 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\date.h
+	<iostream>
+
+1492501653 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493111210 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\electivecourse.h
+	"Course.h"
+
+1492501519 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493111210 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\obligatorycourse.h
+	"Course.h"
+
+1493111569 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1493110731 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\student.h
+	"Date.h"
+	"Course.h"
+
+1493110484 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\main.cpp
+	"GUI.h"
+
+1493111428 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\gui.cpp
+	"GUI.h"
+
+1493110173 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\gui.h
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1494316044 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\course.cpp
+	"Course.h"
+
+1494316019 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\course.h
+	<string>
+	<iostream>
+
+1496737782 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1496737483 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\date.h
+	<iostream>
+	"My_Exception.h"
+
+1492501653 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493111210 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\electivecourse.h
+	"Course.h"
+
+1496738345 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\gui.cpp
+	"GUI.h"
+	<fstream>
+
+1496737437 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\gui.h
+	"Student.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"My_Exception.h"
+
+1496738039 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\student.h
+	"Date.h"
+	"Course.h"
+
+1493111210 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\obligatorycourse.h
+	"Course.h"
+
+1494922064 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\main.cpp
+	"GUI.h"
+
+1492501519 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494923993 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\student.cpp
+	"Student.h"
+	"Date.h"
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<typeinfo>
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1496736829 c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\my_exception.h
+
+1496738020 source:c:\users\dell\desktop\面向对象作业\16211017-仇善召-第二次作业\16211017-仇善召-第二次作业\my_exception.cpp
+	"My_Exception.h"
+

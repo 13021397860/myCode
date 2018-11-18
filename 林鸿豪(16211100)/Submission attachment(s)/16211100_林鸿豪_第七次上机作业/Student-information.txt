@@ -1,0 +1,3 @@
+姓名：2	出生日期：13898712-13897488-2
+选课信息如下：
+CourseName:OO CreditHour:3 Mark:50

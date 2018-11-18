@@ -1,0 +1,6 @@
+Math 50
+English 50
+Chinese 50
+Music 25
+Science 25
+Physics 25

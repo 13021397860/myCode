@@ -1,0 +1,441 @@
+# depslib dependency file v1.0
+1493107209 source:d:\tem\oo 1\temp\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1491892989 source:d:\tem\oo 1\course.cpp
+	"Course.h"
+	<string>
+
+1491892996 d:\tem\oo 1\course.h
+	<string>
+
+1490688990 source:d:\tem\oo 1\date.cpp
+	"Date.h"
+	<cstdio>
+
+1490688987 d:\tem\oo 1\date.h
+
+1491893268 source:d:\tem\oo 1\student.cpp
+	"student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<cstdlib>
+	<cstdio>
+
+1491875606 d:\tem\oo 1\student.h
+	"Date.h"
+	"Course.h"
+
+1491892904 source:d:\tem\oo 1\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1491892837 d:\tem\oo 1\obligatorycourse.h
+	"Course.h"
+
+1491892993 source:d:\tem\oo 1\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1491892973 d:\tem\oo 1\electivecourse.h
+	"Course.h"
+
+1493107448 source:d:\tem\oo 1\temp\course.cpp
+	"Course.h"
+	<string>
+	<cstdio>
+
+1493107441 d:\tem\oo 1\temp\course.h
+	<string>
+	<iostream>
+
+1492501860 source:d:\tem\oo 1\temp\date.cpp
+	"Date.h"
+	<cstdio>
+
+1492501858 d:\tem\oo 1\temp\date.h
+	<iostream>
+
+1493107475 source:d:\tem\oo 1\temp\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493107470 d:\tem\oo 1\temp\electivecourse.h
+	"Course.h"
+
+1493107495 source:d:\tem\oo 1\temp\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493107489 d:\tem\oo 1\temp\obligatorycourse.h
+	"Course.h"
+
+1493107240 source:d:\tem\oo 1\temp\student.cpp
+	"student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493107123 d:\tem\oo 1\temp\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493107448 source:d:\tem\第四次作业多态及引擎不完备版\course.cpp
+	"Course.h"
+	<string>
+	<cstdio>
+
+1493107441 d:\tem\第四次作业多态及引擎不完备版\course.h
+	<string>
+	<iostream>
+
+1492501860 source:d:\tem\第四次作业多态及引擎不完备版\date.cpp
+	"Date.h"
+	<cstdio>
+
+1492501858 d:\tem\第四次作业多态及引擎不完备版\date.h
+	<iostream>
+
+1493107475 source:d:\tem\第四次作业多态及引擎不完备版\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493107470 d:\tem\第四次作业多态及引擎不完备版\electivecourse.h
+	"Course.h"
+
+1493107209 source:d:\tem\第四次作业多态及引擎不完备版\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493107123 d:\tem\第四次作业多态及引擎不完备版\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493107489 d:\tem\第四次作业多态及引擎不完备版\obligatorycourse.h
+	"Course.h"
+
+1493107495 source:d:\tem\第四次作业多态及引擎不完备版\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493107240 source:d:\tem\第四次作业多态及引擎不完备版\student.cpp
+	"student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493107448 source:d:\第四次作业多态及引擎不完备版1\course.cpp
+	"Course.h"
+	<string>
+	<cstdio>
+
+1493107441 d:\第四次作业多态及引擎不完备版1\course.h
+	<string>
+	<iostream>
+
+1492501860 source:d:\第四次作业多态及引擎不完备版1\date.cpp
+	"Date.h"
+	<cstdio>
+
+1492501858 d:\第四次作业多态及引擎不完备版1\date.h
+	<iostream>
+
+1493107475 source:d:\第四次作业多态及引擎不完备版1\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493107470 d:\第四次作业多态及引擎不完备版1\electivecourse.h
+	"Course.h"
+
+1493715340 source:d:\第四次作业多态及引擎不完备版1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Interaction.h"
+
+1493107123 d:\第四次作业多态及引擎不完备版1\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493107489 d:\第四次作业多态及引擎不完备版1\obligatorycourse.h
+	"Course.h"
+
+1493107495 source:d:\第四次作业多态及引擎不完备版1\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493712064 source:d:\第四次作业多态及引擎不完备版1\student.cpp
+	"student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493110897 source:d:\第四次作业多态及引擎不完备版1\interaction.cpp
+	"Interaction.h"
+	"ElectiveCourse.h"
+	"student.h"
+	"ObligatoryCourse.h"
+	"Course.h"
+	<cstdio>
+	<iostream>
+
+1493110017 d:\第四次作业多态及引擎不完备版1\interaction.h
+	<string>
+	"student.h"
+	"Course.h"
+
+1493107448 source:d:\re\course.cpp
+	"Course.h"
+	<string>
+	<cstdio>
+
+1493107441 d:\re\course.h
+	<string>
+	<iostream>
+
+1492501860 source:d:\re\date.cpp
+	"Date.h"
+	<cstdio>
+
+1492501858 d:\re\date.h
+	<iostream>
+
+1493107475 source:d:\re\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493107470 d:\re\electivecourse.h
+	"Course.h"
+
+1493110897 source:d:\re\interaction.cpp
+	"Interaction.h"
+	"ElectiveCourse.h"
+	"student.h"
+	"ObligatoryCourse.h"
+	"Course.h"
+	<cstdio>
+	<iostream>
+
+1493110017 d:\re\interaction.h
+	<string>
+	"student.h"
+	"Course.h"
+
+1493107123 d:\re\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1493107489 d:\re\obligatorycourse.h
+	"Course.h"
+
+1493715849 source:d:\re\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Interaction.h"
+
+1493107495 source:d:\re\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493712064 source:d:\re\student.cpp
+	"student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1494315513 source:d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\course.cpp
+	"Course.h"
+	<string>
+	<cstdio>
+
+1495525534 d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\course.h
+	<string>
+	<iostream>
+
+1492501860 source:d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\date.cpp
+	"Date.h"
+	<cstdio>
+
+1492501858 d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\date.h
+	<iostream>
+
+1495525814 source:d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\interaction.cpp
+	"Interaction.h"
+	"ElectiveCourse.h"
+	"student.h"
+	"ObligatoryCourse.h"
+	"Course.h"
+	<cstdio>
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1495525078 d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\interaction.h
+	<string>
+	"student.h"
+	"Course.h"
+
+1495509753 d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1494315518 d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\electivecourse.h
+	"Course.h"
+
+1494315497 d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\obligatorycourse.h
+	"Course.h"
+
+1495509828 source:d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1495527868 source:d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	"student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Interaction.h"
+
+1495509835 source:d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495523405 source:d:\tem\oo 1\16211037_王嘉翼_第四次作业\work4\student.cpp
+	"student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+
+1496732584 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\course.cpp
+	"Course.h"
+	<string>
+	<cstdio>
+
+1495525534 d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\course.h
+	<string>
+	<iostream>
+
+1496734624 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\date.cpp
+	"Date.h"
+	<cstdio>
+	"Exception.h"
+	<bits/stdc++.h>
+
+1492501858 d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\date.h
+	<iostream>
+
+1495509828 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494315518 d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\electivecourse.h
+	"Course.h"
+
+1495527868 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	"student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Interaction.h"
+
+1495509753 d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+
+1494315497 d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\obligatorycourse.h
+	"Course.h"
+
+1495525078 d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\interaction.h
+	<string>
+	"student.h"
+	"Course.h"
+
+1495509835 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496736531 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\student.cpp
+	"student.h"
+	"Date.h"
+	"Course.h"
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<typeinfo>
+
+1496735104 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\interaction.cpp
+	"Interaction.h"
+	"ElectiveCourse.h"
+	"student.h"
+	"ObligatoryCourse.h"
+	"Course.h"
+	<cstdio>
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	"Exception.h"
+
+1496735622 d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\exception.h
+
+1496733193 source:d:\tem\oo 1\16211037_王嘉翼_第六次作业\work4\exception.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	"student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Interaction.h"
+	"Exception.h"
+

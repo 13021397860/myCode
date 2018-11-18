@@ -1,0 +1,5 @@
+name: ZJM  birthdate: 1999-10-16
+class information: 
+name:cpp    credit hour:5    score:100
+name:English    credit hour:4    score:95
+name:History    credit hour:3    score:85

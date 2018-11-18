@@ -1,0 +1,4 @@
+English 5 0
+Math 4 0
+Music 1 1
+Art 2 1

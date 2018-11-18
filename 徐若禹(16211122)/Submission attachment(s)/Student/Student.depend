@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1495529774 source:y:\codeblocks\task\student\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	"Student.h"
+	"Console.h"
+
+1493714809 source:y:\codeblocks\task\student\date.cpp
+	"Date.h"
+
+1493711806 y:\codeblocks\task\student\date.h
+	<iostream>
+	<iomanip>
+
+1494925103 y:\codeblocks\task\student\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<iomanip>
+	<cstring>
+
+1494925437 source:y:\codeblocks\task\student\student.cpp
+	"Student.h"
+
+1494921000 source:y:\codeblocks\task\student\course.cpp
+	"Course.h"
+
+1495525845 y:\codeblocks\task\student\course.h
+	<iostream>
+	<string>
+
+1494923651 source:y:\codeblocks\task\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494923635 y:\codeblocks\task\student\electivecourse.h
+	"Course.h"
+
+1494922886 source:y:\codeblocks\task\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494922732 y:\codeblocks\task\student\obligatorycourse.h
+	"Course.h"
+
+1494332378 source:y:\codeblocks\task\student\interface.cpp
+	"Interface.h"
+
+1494330255 y:\codeblocks\task\student\interface.h
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+
+1495530665 source:y:\codeblocks\task\student\console.cpp
+	"Console.h"
+
+1495529043 y:\codeblocks\task\student\console.h
+	<iostream>
+	<cstdio>
+	<fstream>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+

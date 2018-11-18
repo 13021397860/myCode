@@ -1,0 +1,4 @@
+姓名：a   出生日期：1900-1-1
+绩点成绩：98     选课信息如下：
+CourseName: OCourseA  Coursecredit:4   CourseScore:100
+CourseName: ECourseA  Coursecredit:2   CourseScore:95

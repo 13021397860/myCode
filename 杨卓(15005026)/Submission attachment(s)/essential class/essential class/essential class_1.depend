@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1489480445 source:c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\date.cpp
+	<iostream>
+	"Date.h"
+	<iomanip>
+
+1489480046 c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\date.h
+
+1489480990 source:c:\users\Ñî×¿\desktop\c++ ³ÌÐò\essential class\main.cpp
+	<iostream>
+	"Date.h"
+	<cstdlib>
+
+1493713458 source:c:\users\Ñî×¿\desktop\essential class\date.cpp
+	<iostream>
+	"Date.h"
+	<iomanip>
+
+1493713448 c:\users\Ñî×¿\desktop\essential class\date.h
+	<iostream>
+
+1493715562 source:c:\users\Ñî×¿\desktop\essential class\main.cpp
+	<iostream>
+	<cstdio>
+	"Date.h"
+	"student.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	<cstdlib>
+	"Runer.h"
+
+1493712781 c:\users\Ñî×¿\desktop\essential class\student.h
+	"date.h"
+	"Course.h"
+
+1493712781 c:\users\Ñî×¿\desktop\essential class\course.h
+	<string>
+
+1492510626 c:\users\Ñî×¿\desktop\essential class\electivecourse.h
+	"Course.h"
+
+1492510909 c:\users\Ñî×¿\desktop\essential class\obligatorycourse.h
+	"Course.h"
+
+1493716104 c:\users\Ñî×¿\desktop\essential class\runer.h
+

@@ -1,0 +1,5 @@
+Name£º1 Birthdate£º1-1-1
+calcCredit£º 39
+ Elective information is as follows£º
+Number£º1    Course£ºLOL CreditHour£º3      Score£º  65
+

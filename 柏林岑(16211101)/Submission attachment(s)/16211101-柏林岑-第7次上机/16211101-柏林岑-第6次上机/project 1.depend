@@ -1,0 +1,387 @@
+# depslib dependency file v1.0
+1489479745 source:d:\oo\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1489479734 d:\oo\include\date.h
+
+1489480799 source:d:\oo\src\main.cpp
+	"Date.h"
+	<iostream>
+
+1490692201 source:d:\16211101-柏林岑-第一次上机\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1490687578 d:\16211101-柏林岑-第一次上机\include\date.h
+
+1490692312 source:d:\16211101-柏林岑-第一次上机\src\main.cpp
+	"Date.h"
+	"Student.h"
+	<iostream>
+
+1490692201 source:d:\16211101-柏林岑-第一次上机\src\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+
+1490692369 d:\16211101-柏林岑-第一次上机\include\student.h
+	"Date.h"
+
+1492437463 source:d:\16211101-柏林岑-第2次上机\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1491897248 d:\16211101-柏林岑-第2次上机\include\date.h
+
+1492506676 source:d:\16211101-柏林岑-第2次上机\src\main.cpp
+	"Date.h"
+	"Student.h"
+	<iostream>
+
+1492503520 d:\16211101-柏林岑-第2次上机\include\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1492506605 source:d:\16211101-柏林岑-第2次上机\src\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1492506305 source:d:\16211101-柏林岑-第2次上机\src\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1492506305 d:\16211101-柏林岑-第2次上机\include\course.h
+	<string>
+
+1492505356 source:d:\16211101-柏林岑-第2次上机\src\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1492505356 d:\16211101-柏林岑-第2次上机\include\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1492506305 source:d:\16211101-柏林岑-第2次上机\src\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1492506305 d:\16211101-柏林岑-第2次上机\include\electivecourse.h
+	<string>
+	"Course.h"
+
+1493112196 source:d:\16211101-柏林岑-第3次上机\src\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1493655332 d:\16211101-柏林岑-第3次上机\include\course.h
+	<string>
+
+1493111063 source:d:\16211101-柏林岑-第3次上机\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1493108914 d:\16211101-柏林岑-第3次上机\include\date.h
+	<iostream>
+
+1493710836 source:d:\16211101-柏林岑-第3次上机\src\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1493136621 d:\16211101-柏林岑-第3次上机\include\electivecourse.h
+	<string>
+	"Course.h"
+
+1493712328 source:d:\16211101-柏林岑-第3次上机\src\main.cpp
+	"Date.h"
+	"Student.h"
+	"Console.h"
+	<iostream>
+
+1493653234 d:\16211101-柏林岑-第3次上机\include\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493136621 d:\16211101-柏林岑-第3次上机\include\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1493136621 source:d:\16211101-柏林岑-第3次上机\src\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1493657406 source:d:\16211101-柏林岑-第3次上机\src\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<string>
+	<cstring>
+	<typeinfo>
+
+1493712301 source:d:\16211101-柏林岑-第3次上机\src\console.cpp
+	"Console.h"
+	"Student.h"
+	<iostream>
+
+1493712278 d:\16211101-柏林岑-第3次上机\include\console.h
+	"Student.h"
+	<iostream>
+
+1495457139 source:d:\16211101-柏林岑-第4次上机\src\console.cpp
+	"Console.h"
+	"Student.h"
+	<iostream>
+	<fstream>
+
+1493712278 d:\16211101-柏林岑-第4次上机\include\console.h
+	"Student.h"
+	<iostream>
+
+1494317602 d:\16211101-柏林岑-第4次上机\include\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493108914 d:\16211101-柏林岑-第4次上机\include\date.h
+	<iostream>
+
+1494315959 d:\16211101-柏林岑-第4次上机\include\course.h
+	<string>
+
+1493136621 d:\16211101-柏林岑-第4次上机\include\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1493136621 d:\16211101-柏林岑-第4次上机\include\electivecourse.h
+	<string>
+	"Course.h"
+
+1493111063 source:d:\16211101-柏林岑-第4次上机\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1494318340 source:d:\16211101-柏林岑-第4次上机\src\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494315739 source:d:\16211101-柏林岑-第4次上机\src\main.cpp
+	"Date.h"
+	"Student.h"
+	"Console.h"
+	<iostream>
+
+1494318152 source:d:\16211101-柏林岑-第4次上机\src\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1494318183 source:d:\16211101-柏林岑-第4次上机\src\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1495445714 source:d:\16211101-柏林岑-第4次上机\src\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<string>
+	<cstring>
+	<typeinfo>
+	<fstream>
+
+1495467183 source:d:\oop\src\console.cpp
+	"Console.h"
+	"Student.h"
+	<iostream>
+	<fstream>
+
+1493712278 d:\oop\include\console.h
+	"Student.h"
+	<iostream>
+
+1494317602 d:\oop\include\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493108914 d:\oop\include\date.h
+	<iostream>
+
+1494315959 d:\oop\include\course.h
+	<string>
+
+1493136621 d:\oop\include\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1493136621 d:\oop\include\electivecourse.h
+	<string>
+	"Course.h"
+
+1494318183 source:d:\oop\src\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1493111063 source:d:\oop\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1494318340 source:d:\oop\src\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494315739 source:d:\oop\src\main.cpp
+	"Date.h"
+	"Student.h"
+	"Console.h"
+	<iostream>
+
+1494318152 source:d:\oop\src\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495445714 source:d:\oop\src\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<string>
+	<cstring>
+	<typeinfo>
+	<fstream>
+
+1495528470 source:c:\users\87665\desktop\oop\src\console.cpp
+	"Console.h"
+	"Student.h"
+	<iostream>
+	<fstream>
+
+1495514052 c:\users\87665\desktop\oop\include\console.h
+	"Student.h"
+	<iostream>
+
+1495527142 c:\users\87665\desktop\oop\include\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1493108914 c:\users\87665\desktop\oop\include\date.h
+	<iostream>
+
+1494315959 c:\users\87665\desktop\oop\include\course.h
+	<string>
+
+1493136621 c:\users\87665\desktop\oop\include\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1493136621 c:\users\87665\desktop\oop\include\electivecourse.h
+	<string>
+	"Course.h"
+
+1494318183 source:c:\users\87665\desktop\oop\src\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1493111063 source:c:\users\87665\desktop\oop\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1494318340 source:c:\users\87665\desktop\oop\src\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494315739 source:c:\users\87665\desktop\oop\src\main.cpp
+	"Date.h"
+	"Student.h"
+	"Console.h"
+	<iostream>
+
+1494318152 source:c:\users\87665\desktop\oop\src\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1495527686 source:c:\users\87665\desktop\oop\src\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<string>
+	<cstring>
+	<typeinfo>
+	<fstream>
+
+1496739258 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\console.cpp
+	"Console.h"
+	"Student.h"
+	"MyException.h"
+	<iostream>
+	<fstream>
+
+1495514052 c:\users\87665\desktop\16211101-柏林岑-第6次上机\include\console.h
+	"Student.h"
+	<iostream>
+
+1496738511 c:\users\87665\desktop\16211101-柏林岑-第6次上机\include\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1496737625 c:\users\87665\desktop\16211101-柏林岑-第6次上机\include\date.h
+	<iostream>
+
+1494315959 c:\users\87665\desktop\16211101-柏林岑-第6次上机\include\course.h
+	<string>
+
+1493136621 c:\users\87665\desktop\16211101-柏林岑-第6次上机\include\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1493136621 c:\users\87665\desktop\16211101-柏林岑-第6次上机\include\electivecourse.h
+	<string>
+	"Course.h"
+
+1494318183 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+
+1496737684 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+
+1494318340 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1494315739 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\main.cpp
+	"Date.h"
+	"Student.h"
+	"Console.h"
+	<iostream>
+
+1494318152 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496739343 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\student.cpp
+	"Student.h"
+	"Date.h"
+	"MyException.h"
+	<iostream>
+	<string>
+	<cstring>
+	<typeinfo>
+	<fstream>
+
+1496737372 c:\users\87665\desktop\16211101-柏林岑-第6次上机\include\myexception.h
+	<string>
+
+1496737418 source:c:\users\87665\desktop\16211101-柏林岑-第6次上机\src\myexception.cpp
+	"MyException.h"
+	<string>
+

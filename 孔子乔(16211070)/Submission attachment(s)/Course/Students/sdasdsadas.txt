@@ -1,0 +1,6 @@
+// This file supports to use "//" to comment
+// The format is [1,0]|[name]|[credithour]|[grade or mark][\n]
+// 1 means obligatory course and 0 means elective course.
+// Not supported for any Chinese if encoding by GBK.
+// This file is courses of student:sdasdsadas Birthdate:1980-1-1 Grade:59.400000
+1|OOP|2|99

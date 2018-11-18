@@ -1,0 +1,7 @@
+6
+1 ObligatoryCourse OO 3
+2 ObligatoryCourse Math 3
+3 ObligatoryCourse DS 3
+4 ElectiveCourse Website-analysis 1
+5 ElectiveCourse History 1
+6 ElectiveCourse Chinese 1

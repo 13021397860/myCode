@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1446667744 source:e:\程序文件2\面向对象\course\main.cpp
+	<iostream>
+
+1491896130 source:e:\程序文件2\面向对象\course\course.cpp
+	"Course.h"
+
+1491896130 e:\程序文件2\面向对象\course\course.h
+	<string>
+
+1491898239 source:e:\程序文件2\面向对象\course\electivecourse.cpp
+	"electivecourse.h"
+
+1491898239 e:\程序文件2\面向对象\course\electivecourse.h
+	"Course.h"
+
+1491898239 source:e:\程序文件2\面向对象\course\obligatorycourse.cpp
+	"Obligatorycourse.h"
+
+1491898239 e:\程序文件2\面向对象\course\obligatorycourse.h
+	"Course.h"
+

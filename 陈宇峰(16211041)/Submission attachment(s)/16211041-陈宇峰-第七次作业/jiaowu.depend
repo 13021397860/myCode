@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1494318852 source:e:\程序文件2\面向对象\student\course.cpp
+	"Course.h"
+	<iostream>
+
+1494306403 e:\程序文件2\面向对象\student\course.h
+	<string>
+
+1493097172 source:e:\程序文件2\面向对象\student\date.cpp
+	<iostream>
+	"Date.h"
+
+1493711579 e:\程序文件2\面向对象\student\date.h
+	<iostream>
+
+1494317809 source:e:\程序文件2\面向对象\student\electivecourse.cpp
+	"electivecourse.h"
+	<iostream>
+
+1494317809 e:\程序文件2\面向对象\student\electivecourse.h
+	"Course.h"
+
+1494319255 source:e:\程序文件2\面向对象\student\main.cpp
+	"Console.h"
+
+1494317974 e:\程序文件2\面向对象\student\student.h
+	<typeinfo>
+	"Date.h"
+	"Course.h"
+	"electivecourse.h"
+	"Obligatorycourse.h"
+
+1494317791 e:\程序文件2\面向对象\student\obligatorycourse.h
+	"Course.h"
+
+1494317791 source:e:\程序文件2\面向对象\student\obligatorycourse.cpp
+	"Obligatorycourse.h"
+	<iostream>
+
+1494317974 source:e:\程序文件2\面向对象\student\student.cpp
+	<iostream>
+	<cstring>
+	"Student.h"
+
+1494318061 source:e:\程序文件2\面向对象\student\console.cpp
+	"Console.h"
+	"Student.h"
+	<string>
+
+1493713498 e:\程序文件2\面向对象\student\console.h
+	"Student.h"
+
+1496738430 source:e:\程序文件2\面向对象\jiaowu\console.cpp
+	"Console.h"
+	"Student.h"
+	"Myexception.h"
+	<iomanip>
+	<fstream>
+	<string>
+
+1495527162 e:\程序文件2\面向对象\jiaowu\console.h
+	"Student.h"
+
+1494317974 e:\程序文件2\面向对象\jiaowu\student.h
+	<typeinfo>
+	"Date.h"
+	"Course.h"
+	"electivecourse.h"
+	"Obligatorycourse.h"
+
+1493711579 e:\程序文件2\面向对象\jiaowu\date.h
+	<iostream>
+
+1494306403 e:\程序文件2\面向对象\jiaowu\course.h
+	<string>
+
+1494317809 e:\程序文件2\面向对象\jiaowu\electivecourse.h
+	"Course.h"
+
+1494317791 e:\程序文件2\面向对象\jiaowu\obligatorycourse.h
+	"Course.h"
+
+1495501579 source:e:\程序文件2\面向对象\jiaowu\course.cpp
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1496735861 source:e:\程序文件2\面向对象\jiaowu\date.cpp
+	<iostream>
+	"Myexception.h"
+	"Date.h"
+
+1496738904 source:e:\程序文件2\面向对象\jiaowu\electivecourse.cpp
+	"electivecourse.h"
+	"Myexception.h"
+	<iostream>
+
+1494319255 source:e:\程序文件2\面向对象\jiaowu\main.cpp
+	"Console.h"
+
+1496738623 source:e:\程序文件2\面向对象\jiaowu\obligatorycourse.cpp
+	"Obligatorycourse.h"
+	"Myexception.h"
+	<iostream>
+
+1496738215 source:e:\程序文件2\面向对象\jiaowu\student.cpp
+	<iostream>
+	<cstring>
+	"Student.h"
+	"Myexception.h"
+
+1496736728 source:e:\程序文件2\面向对象\jiaowu\myexception.cpp
+	"Myexception.h"
+
+1496736551 e:\程序文件2\面向对象\jiaowu\myexception.h
+

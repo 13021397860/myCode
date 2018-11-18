@@ -1,0 +1,5 @@
+Name: Mc Donalds, Birthday: 2017-5-23, Course Chosen:4, Credit Point: 103.40
+0.Course Name: Math, Credit Hour: 6, Grade: 99
+1.Course Name: Biology, Credit Hour: 1, Grade: 85
+2.Course Name: Physics, Credit Hour: 3, Grade: 65
+3.Course Name: Chinese, Credit Hour: 5, Grade: 55

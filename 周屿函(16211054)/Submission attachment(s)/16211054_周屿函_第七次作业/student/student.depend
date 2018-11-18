@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1495528752 source:c:\users\zyh\desktop\北航\面向对象\student\date.cpp
+	"date.h"
+	<iostream>
+	"Exception.h"
+
+1493107931 c:\users\zyh\desktop\北航\面向对象\student\date.h
+	<iostream>
+
+1495528467 source:c:\users\zyh\desktop\北航\面向对象\student\main.cpp
+	<iostream>
+	<stdlib.h>
+	"date.h"
+	"Student.h"
+	"Course.h"
+	"Console.h"
+	"Exception.h"
+
+1490687360 source:c:\users\zyh\desktop\北航\面向对象\student\name.cpp
+	"Name.h"
+	<cstdio>
+	<cstring>
+
+1491891037 c:\users\zyh\desktop\北航\面向对象\student\name.h
+	"date.h"
+	"Course.h"
+
+1495528489 source:c:\users\zyh\desktop\北航\面向对象\student\course.cpp
+	"Course.h"
+	"ObligatoryCourse.h"
+	"Elective.h"
+	<iostream>
+	"Exception.h"
+
+1495528489 c:\users\zyh\desktop\北航\面向对象\student\course.h
+	<string>
+	"Exception.h"
+
+1496736780 c:\users\zyh\desktop\北航\面向对象\student\student.h
+	"date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"Elective.h"
+	"Exception.h"
+
+1496736939 source:c:\users\zyh\desktop\北航\面向对象\student\student.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<typeinfo>
+	"Exception.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"Elective.h"
+
+1495528489 source:c:\users\zyh\desktop\北航\面向对象\student\elective.cpp
+	"Elective.h"
+	"Exception.h"
+
+1495528846 c:\users\zyh\desktop\北航\面向对象\student\elective.h
+	"Exception.h"
+	"Course.h"
+
+1495528846 c:\users\zyh\desktop\北航\面向对象\student\obligatorycourse.h
+	"Exception.h"
+	"Course.h"
+
+1491897494 source:c:\users\zyh\desktop\北航\面向对象\student\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496736566 c:\users\zyh\desktop\北航\面向对象\student\console.h
+	"Exception.h"
+
+1496736698 source:c:\users\zyh\desktop\北航\面向对象\student\console.cpp
+	<iostream>
+	<stdlib.h>
+	<typeinfo>
+	<fstream>
+	"Exception.h"
+	"date.h"
+	"Course.h"
+	"Student.h"
+	"Console.h"
+
+1496735215 c:\users\zyh\desktop\北航\面向对象\student\exception.h
+
+1496735211 source:c:\users\zyh\desktop\北航\面向对象\student\exception.cpp
+	"Exception.h"
+

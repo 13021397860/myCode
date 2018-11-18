@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1490687058 source:e:\oo项目\student\date.cpp
+	"date.h"
+	<iostream>
+	<cstdio>
+
+1490687689 e:\oo项目\student\date.h
+
+1490690998 source:e:\oo项目\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1490690280 e:\oo项目\student\student.h
+	"date.h"
+
+1490691517 source:e:\oo项目\student\student.cpp
+	"Student.h"
+	"date.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1496488810 source:e:\oo项目\my_project\student\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+	<iomanip>
+
+1496488819 e:\oo项目\my_project\student\course.h
+	<string>
+	"MyException.h"
+	<exception>
+
+1496489469 source:e:\oo项目\my_project\student\date.cpp
+	"date.h"
+	<iostream>
+	<cstdio>
+	"MyException.h"
+	<exception>
+
+1493100865 e:\oo项目\my_project\student\date.h
+	<iostream>
+
+1496489583 source:e:\oo项目\my_project\student\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1495179978 e:\oo项目\my_project\student\electivecourse.h
+	"Course.h"
+
+1493714418 source:e:\oo项目\my_project\student\main.cpp
+	"Console.h"
+
+1494318374 e:\oo项目\my_project\student\student.h
+	"date.h"
+	<string>
+	"ObligatorayCourse.h"
+	"ElectiveCourse.h"
+
+1496489487 source:e:\oo项目\my_project\student\obligatoraycourse.cpp
+	"ObligatorayCourse.h"
+
+1494299005 e:\oo项目\my_project\student\obligatoraycourse.h
+	"Course.h"
+
+1496491950 source:e:\oo项目\my_project\student\student.cpp
+	"Student.h"
+	"date.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+	<typeinfo>
+	<cstdlib>
+	<exception>
+
+1496731988 source:e:\oo项目\my_project\student\console.cpp
+	"Console.h"
+	<iomanip>
+	<typeinfo>
+	<cstdio>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1495179463 e:\oo项目\my_project\student\console.h
+	"Student.h"
+
+1496490460 e:\oo项目\my_project\student\myexception.h
+	<string>
+
+1496487726 source:e:\oo项目\my_project\student\myexception.cpp
+	"MyException.h"
+

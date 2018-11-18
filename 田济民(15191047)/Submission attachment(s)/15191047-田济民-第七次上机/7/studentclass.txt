@@ -1,0 +1,5 @@
+ElectiveCourse music 2
+ObligatoryCourse math 3
+ObligatoryCourse database 3
+ObligatoryCourse thinking 2
+ElectiveCourse P.E. 2

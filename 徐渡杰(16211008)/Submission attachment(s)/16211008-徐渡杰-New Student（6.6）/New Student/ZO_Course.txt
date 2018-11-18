@@ -1,0 +1,5 @@
+1.data_structure(credit:3)
+2.OOP(credit:3)
+3.advanced_math(credit:4)
+4.linear_algebra(credit:4)
+5.else

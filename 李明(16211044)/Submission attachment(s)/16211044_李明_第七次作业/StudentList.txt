@@ -1,0 +1,8 @@
+1
+Name: 1    Birthday: 1-1-1
+Selected lesson:
+    1    Course name: Running                         Credit hour: 1               Score: 100 OC
+    2    Course name: Naive                           Credit hour: 2               Score: 100 OC
+
+END 1
+

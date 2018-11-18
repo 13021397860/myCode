@@ -1,0 +1,58 @@
+# Project: 第二次上机
+# Makefile created by Dev-C++ 5.10
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = main.o Date.o Student.o course.o ObligatoryCourse.o ElectiveCourse.o consol.o MyException.o DateException.o SetException.o ArrException.o
+LINKOBJ  = main.o Date.o Student.o course.o ObligatoryCourse.o ElectiveCourse.o consol.o MyException.o DateException.o SetException.o ArrException.o
+LIBS     = -L"E:/dev/Dev-Cpp/MinGW64/lib" -L"E:/dev/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"E:/dev/Dev-Cpp/MinGW64/include" -I"E:/dev/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"E:/dev/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include"
+CXXINCS  = -I"E:/dev/Dev-Cpp/MinGW64/include" -I"E:/dev/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"E:/dev/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"E:/dev/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"
+BIN      = Date.exe
+CXXFLAGS = $(CXXINCS) -g3 -std=c++11
+CFLAGS   = $(INCS) -g3 -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+Date.o: Date.cpp
+	$(CPP) -c Date.cpp -o Date.o $(CXXFLAGS)
+
+Student.o: Student.cpp
+	$(CPP) -c Student.cpp -o Student.o $(CXXFLAGS)
+
+course.o: course.cpp
+	$(CPP) -c course.cpp -o course.o $(CXXFLAGS)
+
+ObligatoryCourse.o: ObligatoryCourse.cpp
+	$(CPP) -c ObligatoryCourse.cpp -o ObligatoryCourse.o $(CXXFLAGS)
+
+ElectiveCourse.o: ElectiveCourse.cpp
+	$(CPP) -c ElectiveCourse.cpp -o ElectiveCourse.o $(CXXFLAGS)
+
+consol.o: consol.cpp
+	$(CPP) -c consol.cpp -o consol.o $(CXXFLAGS)
+
+MyException.o: MyException.cpp
+	$(CPP) -c MyException.cpp -o MyException.o $(CXXFLAGS)
+
+DateException.o: DateException.cpp
+	$(CPP) -c DateException.cpp -o DateException.o $(CXXFLAGS)
+
+SetException.o: SetException.cpp
+	$(CPP) -c SetException.cpp -o SetException.o $(CXXFLAGS)
+
+ArrException.o: ArrException.cpp
+	$(CPP) -c ArrException.cpp -o ArrException.o $(CXXFLAGS)

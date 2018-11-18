@@ -1,0 +1,12 @@
+Math Obligatory 4
+Physics Obligatory 3.5
+Chemistry Obligatory 3
+Engliash Obligatory 2
+C++ Obligatory 4.5
+Sports Obligatory 1
+
+Java Elective 2.5
+Chinese Elective 2
+French Elective 3
+Basketball Elective 0.5
+SpokenEnglish Elective 0.5

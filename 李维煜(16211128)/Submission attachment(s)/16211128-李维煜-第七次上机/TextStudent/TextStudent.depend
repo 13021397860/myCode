@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1495368494 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\main.cpp
+	<iostream>
+	"Date.h"
+	"Course.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"TextStudentClass.h"
+	"run.h"
+
+1496733395 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\textstudentclass.cpp
+	<iostream>
+	<cstring>
+	"TextStudentClass.h"
+	"Date.h"
+
+1496731206 c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\textstudentclass.h
+	"Date.h"
+	<iostream>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<typeinfo>
+
+1496658081 c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\date.h
+	<iostream>
+	"MyException.h"
+
+1496736985 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\date.cpp
+	<iostream>
+	"Date.h"
+
+1496658070 c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\course.h
+	<string>
+	<iostream>
+	"MyException.h"
+
+1496658100 c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\obligatorycourse.h
+	"Course.h"
+	"MyException.h"
+
+1496658091 c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\electivecourse.h
+	"Course.h"
+	"MyException.h"
+
+1496664817 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\course.cpp
+	"Course.h"
+	<iostream>
+
+1496732033 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\electivecourse.cpp
+	"ElectiveCourse.h"
+	<string>
+
+1496731999 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496736732 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\run.cpp
+	"run.h"
+	<typeinfo>
+	"TextStudentClass.h"
+	<iostream>
+
+1496736117 c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\run.h
+	"Course.h"
+	"Date.h"
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+	"TextStudentClass.h"
+	"MyException.h"
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<cstring>
+
+1496736402 c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\myexception.h
+	<iostream>
+
+1496736418 source:c:\users\李维煜\desktop\大一下\面向对象\第二次上机\textstudent\myexception.cpp
+	"MyException.h"
+

@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1496061327 source:e:\class  test\course\course\date.cpp
+	"Date.h"
+	"MyException.h"
+	<iostream>
+
+1496061327 e:\class  test\course\course\date.h
+	<iostream>
+
+1494316622 source:e:\class  test\course\course\course.cpp
+	"Course.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1494316384 e:\class  test\course\course\course.h
+	<string>
+	<iostream>
+	<cstring>
+	<string>
+
+1491896154 source:e:\class  test\course\course\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1496064063 e:\class  test\course\course\electivecourse.h
+	<string>
+	<iostream>
+	<cstring>
+	<typeinfo>
+	"Course.h"
+	"MyException.h"
+
+1496061094 source:e:\class  test\course\course\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Fun.h"
+	"MyException.h"
+
+1496064757 e:\class  test\course\course\student.h
+	<iostream>
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1496064063 e:\class  test\course\course\obligatorycourse.h
+	<string>
+	<iostream>
+	<cstring>
+	<typeinfo>
+	"Course.h"
+	"MyException.h"
+
+1491895942 source:e:\class  test\course\course\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1496062712 source:e:\class  test\course\course\student.cpp
+	"Student.h"
+	"Date.h"
+	<iostream>
+	<cstring>
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<typeinfo>
+
+1496065006 source:e:\class  test\course\course\fun.cpp
+	"Fun.h"
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<strstream>
+	<typeinfo>
+
+1496061094 e:\class  test\course\course\fun.h
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<strstream>
+	<cstring>
+
+1496060878 source:e:\class  test\course\course\myexception.cpp
+	"MyException.h"
+	"Fun.h"
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<strstream>
+	<typeinfo>
+
+1496064530 e:\class  test\course\course\myexception.h
+	<iostream>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<strstream>
+	<typeinfo>
+

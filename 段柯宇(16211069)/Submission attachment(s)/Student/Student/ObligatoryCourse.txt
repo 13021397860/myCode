@@ -1,0 +1,7 @@
+mathematics 4
+algebra 4
+English 4
+data_structure 4
+object_oriented 3
+physical_education 2
+physics 5

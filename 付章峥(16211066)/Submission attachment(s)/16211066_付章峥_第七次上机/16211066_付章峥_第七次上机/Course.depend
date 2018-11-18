@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1492417099 source:e:\_mystudy_file\oo_面对对象\course\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+
+1491897413 e:\_mystudy_file\oo_面对对象\course\course.h
+	<iostream>
+	<string>
+
+1492514896 source:e:\_mystudy_file\oo_面对对象\course\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<typeinfo>
+	"electivecourse.h"
+	"obligatorycourse.h"
+	"course.h"
+	"student.h"
+
+1492417532 source:e:\_mystudy_file\oo_面对对象\course\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1491899347 e:\_mystudy_file\oo_面对对象\course\obligatorycourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1492417532 source:e:\_mystudy_file\oo_面对对象\course\electivecourse.cpp
+	"electivecourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1491899347 e:\_mystudy_file\oo_面对对象\course\electivecourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1492514160 source:e:\_mystudy_file\oo_面对对象\course\student.cpp
+	"student.h"
+	"date.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<cstring>
+	<typeinfo>
+	<iomanip>
+
+1492513316 e:\_mystudy_file\oo_面对对象\course\student.h
+	"date.h"
+	"course.h"
+	<iostream>
+
+1490689196 e:\_mystudy_file\oo_面对对象\course\date.h
+
+1490689196 source:e:\_mystudy_file\oo_面对对象\course\date.cpp
+	"date.h"
+	<iostream>
+
+1493642467 source:e:\_mystudy_file\oo_面对对象\ooecourse\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1493110505 e:\_mystudy_file\oo_面对对象\ooecourse\course.h
+	<iostream>
+	<string>
+
+1492417532 source:e:\_mystudy_file\oo_面对对象\ooecourse\electivecourse.cpp
+	"electivecourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1491899347 e:\_mystudy_file\oo_面对对象\ooecourse\electivecourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1493708049 source:e:\_mystudy_file\oo_面对对象\ooecourse\main.cpp
+	"console.h"
+
+1491899347 e:\_mystudy_file\oo_面对对象\ooecourse\obligatorycourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1493699900 e:\_mystudy_file\oo_面对对象\ooecourse\student.h
+	"date.h"
+	"course.h"
+	<iostream>
+
+1493110157 e:\_mystudy_file\oo_面对对象\ooecourse\date.h
+	<iostream>
+
+1492417532 source:e:\_mystudy_file\oo_面对对象\ooecourse\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1493708393 source:e:\_mystudy_file\oo_面对对象\ooecourse\student.cpp
+	"student.h"
+	"date.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<cstring>
+	<typeinfo>
+	<iomanip>
+	<cstdlib>
+
+1493110157 source:e:\_mystudy_file\oo_面对对象\ooecourse\date.cpp
+	"date.h"
+	<iostream>
+
+1493707730 e:\_mystudy_file\oo_面对对象\ooecourse\console.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<typeinfo>
+	"electivecourse.h"
+	"obligatorycourse.h"
+	"course.h"
+	"student.h"
+
+1493720697 source:e:\_mystudy_file\oo_面对对象\ooecourse\console.cpp
+	"console.h"
+	"date.h"
+
+1494318828 source:e:\_mystudy_file\oo_面对对象\culcourse\console.cpp
+	"console.h"
+	"date.h"
+
+1493707730 e:\_mystudy_file\oo_面对对象\culcourse\console.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<typeinfo>
+	"electivecourse.h"
+	"obligatorycourse.h"
+	"course.h"
+	"student.h"
+
+1494317139 e:\_mystudy_file\oo_面对对象\culcourse\electivecourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1494316935 e:\_mystudy_file\oo_面对对象\culcourse\course.h
+	<iostream>
+	<string>
+
+1494316179 e:\_mystudy_file\oo_面对对象\culcourse\obligatorycourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1494318316 e:\_mystudy_file\oo_面对对象\culcourse\student.h
+	"date.h"
+	"course.h"
+	<iostream>
+
+1493110157 e:\_mystudy_file\oo_面对对象\culcourse\date.h
+	<iostream>
+
+1494316935 source:e:\_mystudy_file\oo_面对对象\culcourse\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1493110157 source:e:\_mystudy_file\oo_面对对象\culcourse\date.cpp
+	"date.h"
+	<iostream>
+
+1494317139 source:e:\_mystudy_file\oo_面对对象\culcourse\electivecourse.cpp
+	"electivecourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1493708049 source:e:\_mystudy_file\oo_面对对象\culcourse\main.cpp
+	"console.h"
+
+1494316190 source:e:\_mystudy_file\oo_面对对象\culcourse\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1494319211 source:e:\_mystudy_file\oo_面对对象\culcourse\student.cpp
+	"student.h"
+	"date.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<cstring>
+	<typeinfo>
+	<iomanip>
+	<cstdlib>
+
+1495526183 source:e:\_mystudy_file\oo_面对对象\oscourse\console.cpp
+	"console.h"
+	"date.h"
+	<fstream>
+	<exception>
+	<stdexcept>
+
+1495442984 e:\_mystudy_file\oo_面对对象\oscourse\console.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<typeinfo>
+	"electivecourse.h"
+	"obligatorycourse.h"
+	"course.h"
+	"student.h"
+
+1494317139 e:\_mystudy_file\oo_面对对象\oscourse\electivecourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1494316935 e:\_mystudy_file\oo_面对对象\oscourse\course.h
+	<iostream>
+	<string>
+
+1494316179 e:\_mystudy_file\oo_面对对象\oscourse\obligatorycourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1494318316 e:\_mystudy_file\oo_面对对象\oscourse\student.h
+	"date.h"
+	"course.h"
+	<iostream>
+
+1493110157 e:\_mystudy_file\oo_面对对象\oscourse\date.h
+	<iostream>
+
+1494316935 source:e:\_mystudy_file\oo_面对对象\oscourse\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1493110157 source:e:\_mystudy_file\oo_面对对象\oscourse\date.cpp
+	"date.h"
+	<iostream>
+
+1494317139 source:e:\_mystudy_file\oo_面对对象\oscourse\electivecourse.cpp
+	"electivecourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1495372589 source:e:\_mystudy_file\oo_面对对象\oscourse\main.cpp
+	"console.h"
+
+1494316190 source:e:\_mystudy_file\oo_面对对象\oscourse\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1495521511 source:e:\_mystudy_file\oo_面对对象\oscourse\student.cpp
+	"student.h"
+	"date.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<cstring>
+	<typeinfo>
+	<iomanip>
+	<cstdlib>
+
+1496735208 source:e:\_mystudy_file\oo_面对对象\excourse\console.cpp
+	"console.h"
+	"date.h"
+	<fstream>
+	<exception>
+	<stdexcept>
+	"myexception.h"
+
+1496732829 e:\_mystudy_file\oo_面对对象\excourse\console.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<typeinfo>
+	"electivecourse.h"
+	"obligatorycourse.h"
+	"course.h"
+	"student.h"
+	"myexception.h"
+
+1494317139 e:\_mystudy_file\oo_面对对象\excourse\electivecourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1494316935 e:\_mystudy_file\oo_面对对象\excourse\course.h
+	<iostream>
+	<string>
+
+1494316179 e:\_mystudy_file\oo_面对对象\excourse\obligatorycourse.h
+	"course.h"
+	<iostream>
+	<string>
+
+1496732419 e:\_mystudy_file\oo_面对对象\excourse\student.h
+	"date.h"
+	"course.h"
+	<iostream>
+	"myexception.h"
+
+1496730552 e:\_mystudy_file\oo_面对对象\excourse\date.h
+	<iostream>
+
+1496732228 e:\_mystudy_file\oo_面对对象\excourse\myexception.h
+	"date.h"
+
+1494316935 source:e:\_mystudy_file\oo_面对对象\excourse\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1496730552 source:e:\_mystudy_file\oo_面对对象\excourse\date.cpp
+	"date.h"
+	"myexception.h"
+	<iostream>
+
+1494317139 source:e:\_mystudy_file\oo_面对对象\excourse\electivecourse.cpp
+	"electivecourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1495372589 source:e:\_mystudy_file\oo_面对对象\excourse\main.cpp
+	"console.h"
+
+1496734687 source:e:\_mystudy_file\oo_面对对象\excourse\myexception.cpp
+	"myexception.h"
+	<iostream>
+	<cstdlib>
+
+1494316190 source:e:\_mystudy_file\oo_面对对象\excourse\obligatorycourse.cpp
+	"obligatorycourse.h"
+	"course.h"
+	<iostream>
+	<string>
+
+1496732735 source:e:\_mystudy_file\oo_面对对象\excourse\student.cpp
+	"student.h"
+	"date.h"
+	"course.h"
+	"obligatorycourse.h"
+	"electivecourse.h"
+	<cstring>
+	<typeinfo>
+	<iomanip>
+	<cstdlib>
+	"myexception.h"
+

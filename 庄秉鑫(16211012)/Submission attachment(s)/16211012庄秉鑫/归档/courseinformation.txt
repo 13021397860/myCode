@@ -1,0 +1,8 @@
+课程名              	学分               课程类型                   课程编号
+eat                    10                obligatory course          1
+fight                  10                obligatory course          2
+sing                   10                obligatory course          3
+love                   10                obligatory course          4
+forget                 10                elective course            5
+run                    10                elective course            6
+reflect                10                elective course            7
